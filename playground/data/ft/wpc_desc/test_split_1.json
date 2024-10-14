@@ -1,0 +1,2518 @@
+[
+    {
+        "content": "bag",
+        "filename": "bag/bag_level_7.ply",
+        "gt_score": 9.59532456,
+        "object_id": "bag/bag_level_7",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is bad"
+            }
+        ],
+        "image": "bag_level_7.mp4"
+    },
+    {
+        "content": "bag",
+        "filename": "bag/bag_level_8.ply",
+        "gt_score": 18.23796415,
+        "object_id": "bag/bag_level_8",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is bad"
+            }
+        ],
+        "image": "bag_level_8.mp4"
+    },
+    {
+        "content": "bag",
+        "filename": "bag/bag_level_9.ply",
+        "gt_score": 82.74107891,
+        "object_id": "bag/bag_level_9",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is excellent"
+            }
+        ],
+        "image": "bag_level_9.mp4"
+    },
+    {
+        "content": "bag",
+        "filename": "bag/bag_gsigma_0_tsigma_8.ply",
+        "gt_score": 88.78171897,
+        "object_id": "bag/bag_gsigma_0_tsigma_8",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is excellent"
+            }
+        ],
+        "image": "bag_gsigma_0_tsigma_8.mp4"
+    },
+    {
+        "content": "bag",
+        "filename": "bag/bag_gsigma_0_tsigma_16.ply",
+        "gt_score": 86.24911138,
+        "object_id": "bag/bag_gsigma_0_tsigma_16",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is excellent"
+            }
+        ],
+        "image": "bag_gsigma_0_tsigma_16.mp4"
+    },
+    {
+        "content": "bag",
+        "filename": "bag/bag_gsigma_0_tsigma_32.ply",
+        "gt_score": 62.11964039,
+        "object_id": "bag/bag_gsigma_0_tsigma_32",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ],
+        "image": "bag_gsigma_0_tsigma_32.mp4"
+    },
+    {
+        "content": "bag",
+        "filename": "bag/bag_gsigma_2_tsigma_8.ply",
+        "gt_score": 56.92145553,
+        "object_id": "bag/bag_gsigma_2_tsigma_8",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ],
+        "image": "bag_gsigma_2_tsigma_8.mp4"
+    },
+    {
+        "content": "bag",
+        "filename": "bag/bag_gsigma_2_tsigma_16.ply",
+        "gt_score": 49.36475509,
+        "object_id": "bag/bag_gsigma_2_tsigma_16",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ],
+        "image": "bag_gsigma_2_tsigma_16.mp4"
+    },
+    {
+        "content": "bag",
+        "filename": "bag/bag_gsigma_2_tsigma_32.ply",
+        "gt_score": 43.75380957,
+        "object_id": "bag/bag_gsigma_2_tsigma_32",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ],
+        "image": "bag_gsigma_2_tsigma_32.mp4"
+    },
+    {
+        "content": "bag",
+        "filename": "bag/bag_gsigma_4_tsigma_8.ply",
+        "gt_score": 22.37620413,
+        "object_id": "bag/bag_gsigma_4_tsigma_8",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is poor"
+            }
+        ],
+        "image": "bag_gsigma_4_tsigma_8.mp4"
+    },
+    {
+        "content": "bag",
+        "filename": "bag/bag_gsigma_4_tsigma_16.ply",
+        "gt_score": 21.98784769,
+        "object_id": "bag/bag_gsigma_4_tsigma_16",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is poor"
+            }
+        ],
+        "image": "bag_gsigma_4_tsigma_16.mp4"
+    },
+    {
+        "content": "bag",
+        "filename": "bag/bag_gsigma_4_tsigma_32.ply",
+        "gt_score": 22.43616482,
+        "object_id": "bag/bag_gsigma_4_tsigma_32",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is poor"
+            }
+        ],
+        "image": "bag_gsigma_4_tsigma_32.mp4"
+    },
+    {
+        "content": "bag",
+        "filename": "bag/bag_tsl_4_tqs_64.ply",
+        "gt_score": 67.09168867,
+        "object_id": "bag/bag_tsl_4_tqs_64",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ],
+        "image": "bag_tsl_4_tqs_64.mp4"
+    },
+    {
+        "content": "bag",
+        "filename": "bag/bag_tsl_4_tqs_128.ply",
+        "gt_score": 62.21628821,
+        "object_id": "bag/bag_tsl_4_tqs_128",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ],
+        "image": "bag_tsl_4_tqs_128.mp4"
+    },
+    {
+        "content": "bag",
+        "filename": "bag/bag_tsl_4_tqs_256.ply",
+        "gt_score": 36.26609788,
+        "object_id": "bag/bag_tsl_4_tqs_256",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is poor"
+            }
+        ],
+        "image": "bag_tsl_4_tqs_256.mp4"
+    },
+    {
+        "content": "bag",
+        "filename": "bag/bag_tsl_4_tqs_512.ply",
+        "gt_score": 20.84981283,
+        "object_id": "bag/bag_tsl_4_tqs_512",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is poor"
+            }
+        ],
+        "image": "bag_tsl_4_tqs_512.mp4"
+    },
+    {
+        "content": "bag",
+        "filename": "bag/bag_tsl_6_tqs_64.ply",
+        "gt_score": 58.51287376,
+        "object_id": "bag/bag_tsl_6_tqs_64",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ],
+        "image": "bag_tsl_6_tqs_64.mp4"
+    },
+    {
+        "content": "bag",
+        "filename": "bag/bag_tsl_6_tqs_128.ply",
+        "gt_score": 48.88989054,
+        "object_id": "bag/bag_tsl_6_tqs_128",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ],
+        "image": "bag_tsl_6_tqs_128.mp4"
+    },
+    {
+        "content": "bag",
+        "filename": "bag/bag_tsl_6_tqs_256.ply",
+        "gt_score": 40.2873935,
+        "object_id": "bag/bag_tsl_6_tqs_256",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ],
+        "image": "bag_tsl_6_tqs_256.mp4"
+    },
+    {
+        "content": "bag",
+        "filename": "bag/bag_tsl_6_tqs_512.ply",
+        "gt_score": 24.60106839,
+        "object_id": "bag/bag_tsl_6_tqs_512",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is poor"
+            }
+        ],
+        "image": "bag_tsl_6_tqs_512.mp4"
+    },
+    {
+        "content": "bag",
+        "filename": "bag/bag_tsl_8_tqs_64.ply",
+        "gt_score": 90.36817669,
+        "object_id": "bag/bag_tsl_8_tqs_64",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is excellent"
+            }
+        ],
+        "image": "bag_tsl_8_tqs_64.mp4"
+    },
+    {
+        "content": "bag",
+        "filename": "bag/bag_tsl_8_tqs_128.ply",
+        "gt_score": 80.66164159,
+        "object_id": "bag/bag_tsl_8_tqs_128",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is excellent"
+            }
+        ],
+        "image": "bag_tsl_8_tqs_128.mp4"
+    },
+    {
+        "content": "bag",
+        "filename": "bag/bag_tsl_8_tqs_256.ply",
+        "gt_score": 60.38564447,
+        "object_id": "bag/bag_tsl_8_tqs_256",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ],
+        "image": "bag_tsl_8_tqs_256.mp4"
+    },
+    {
+        "content": "bag",
+        "filename": "bag/bag_tsl_8_tqs_512.ply",
+        "gt_score": 34.95747094,
+        "object_id": "bag/bag_tsl_8_tqs_512",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is poor"
+            }
+        ],
+        "image": "bag_tsl_8_tqs_512.mp4"
+    },
+    {
+        "content": "bag",
+        "filename": "bag/bag_gQP_1_tQP_1.ply",
+        "gt_score": 86.69456186,
+        "object_id": "bag/bag_gQP_1_tQP_1",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is excellent"
+            }
+        ],
+        "image": "bag_gQP_1_tQP_1.mp4"
+    },
+    {
+        "content": "bag",
+        "filename": "bag/bag_gQP_1_tQP_2.ply",
+        "gt_score": 76.14530845,
+        "object_id": "bag/bag_gQP_1_tQP_2",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ],
+        "image": "bag_gQP_1_tQP_2.mp4"
+    },
+    {
+        "content": "bag",
+        "filename": "bag/bag_gQP_1_tQP_3.ply",
+        "gt_score": 52.85558429,
+        "object_id": "bag/bag_gQP_1_tQP_3",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ],
+        "image": "bag_gQP_1_tQP_3.mp4"
+    },
+    {
+        "content": "bag",
+        "filename": "bag/bag_gQP_2_tQP_1.ply",
+        "gt_score": 52.1814527,
+        "object_id": "bag/bag_gQP_2_tQP_1",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ],
+        "image": "bag_gQP_2_tQP_1.mp4"
+    },
+    {
+        "content": "bag",
+        "filename": "bag/bag_gQP_2_tQP_2.ply",
+        "gt_score": 49.31511353,
+        "object_id": "bag/bag_gQP_2_tQP_2",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ],
+        "image": "bag_gQP_2_tQP_2.mp4"
+    },
+    {
+        "content": "bag",
+        "filename": "bag/bag_gQP_2_tQP_3.ply",
+        "gt_score": 39.10736912,
+        "object_id": "bag/bag_gQP_2_tQP_3",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is poor"
+            }
+        ],
+        "image": "bag_gQP_2_tQP_3.mp4"
+    },
+    {
+        "content": "bag",
+        "filename": "bag/bag_gQP_3_tQP_1.ply",
+        "gt_score": 27.44033309,
+        "object_id": "bag/bag_gQP_3_tQP_1",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is poor"
+            }
+        ],
+        "image": "bag_gQP_3_tQP_1.mp4"
+    },
+    {
+        "content": "bag",
+        "filename": "bag/bag_gQP_3_tQP_2.ply",
+        "gt_score": 32.01772343,
+        "object_id": "bag/bag_gQP_3_tQP_2",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is poor"
+            }
+        ],
+        "image": "bag_gQP_3_tQP_2.mp4"
+    },
+    {
+        "content": "bag",
+        "filename": "bag/bag_gQP_3_tQP_3.ply",
+        "gt_score": 29.61486469,
+        "object_id": "bag/bag_gQP_3_tQP_3",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is poor"
+            }
+        ],
+        "image": "bag_gQP_3_tQP_3.mp4"
+    },
+    {
+        "content": "bag",
+        "filename": "bag/bag_pqs_1_qs_16.ply",
+        "gt_score": 90.340738,
+        "object_id": "bag/bag_pqs_1_qs_16",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is excellent"
+            }
+        ],
+        "image": "bag_pqs_1_qs_16.mp4"
+    },
+    {
+        "content": "bag",
+        "filename": "bag/bag_pqs_1_qs_32.ply",
+        "gt_score": 81.83884571,
+        "object_id": "bag/bag_pqs_1_qs_32",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is excellent"
+            }
+        ],
+        "image": "bag_pqs_1_qs_32.mp4"
+    },
+    {
+        "content": "bag",
+        "filename": "bag/bag_pqs_1_qs_48.ply",
+        "gt_score": 58.43553789,
+        "object_id": "bag/bag_pqs_1_qs_48",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ],
+        "image": "bag_pqs_1_qs_48.mp4"
+    },
+    {
+        "content": "bag",
+        "filename": "bag/bag_pqs_1_qs_64.ply",
+        "gt_score": 62.55491922,
+        "object_id": "bag/bag_pqs_1_qs_64",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ],
+        "image": "bag_pqs_1_qs_64.mp4"
+    },
+    {
+        "content": "banana",
+        "filename": "banana/banana_level_7.ply",
+        "gt_score": 7.109028314,
+        "object_id": "banana/banana_level_7",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is bad"
+            }
+        ],
+        "image": "banana_level_7.mp4"
+    },
+    {
+        "content": "banana",
+        "filename": "banana/banana_level_8.ply",
+        "gt_score": 23.08348257,
+        "object_id": "banana/banana_level_8",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is poor"
+            }
+        ],
+        "image": "banana_level_8.mp4"
+    },
+    {
+        "content": "banana",
+        "filename": "banana/banana_level_9.ply",
+        "gt_score": 89.49153987,
+        "object_id": "banana/banana_level_9",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is excellent"
+            }
+        ],
+        "image": "banana_level_9.mp4"
+    },
+    {
+        "content": "banana",
+        "filename": "banana/banana_gsigma_0_tsigma_8.ply",
+        "gt_score": 83.0931383,
+        "object_id": "banana/banana_gsigma_0_tsigma_8",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is excellent"
+            }
+        ],
+        "image": "banana_gsigma_0_tsigma_8.mp4"
+    },
+    {
+        "content": "banana",
+        "filename": "banana/banana_gsigma_0_tsigma_16.ply",
+        "gt_score": 60.4722494,
+        "object_id": "banana/banana_gsigma_0_tsigma_16",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ],
+        "image": "banana_gsigma_0_tsigma_16.mp4"
+    },
+    {
+        "content": "banana",
+        "filename": "banana/banana_gsigma_0_tsigma_32.ply",
+        "gt_score": 40.11307634,
+        "object_id": "banana/banana_gsigma_0_tsigma_32",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ],
+        "image": "banana_gsigma_0_tsigma_32.mp4"
+    },
+    {
+        "content": "banana",
+        "filename": "banana/banana_gsigma_2_tsigma_8.ply",
+        "gt_score": 50.75512514,
+        "object_id": "banana/banana_gsigma_2_tsigma_8",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ],
+        "image": "banana_gsigma_2_tsigma_8.mp4"
+    },
+    {
+        "content": "banana",
+        "filename": "banana/banana_gsigma_2_tsigma_16.ply",
+        "gt_score": 49.66770221,
+        "object_id": "banana/banana_gsigma_2_tsigma_16",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ],
+        "image": "banana_gsigma_2_tsigma_16.mp4"
+    },
+    {
+        "content": "banana",
+        "filename": "banana/banana_gsigma_2_tsigma_32.ply",
+        "gt_score": 31.34629454,
+        "object_id": "banana/banana_gsigma_2_tsigma_32",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is poor"
+            }
+        ],
+        "image": "banana_gsigma_2_tsigma_32.mp4"
+    },
+    {
+        "content": "banana",
+        "filename": "banana/banana_gsigma_4_tsigma_8.ply",
+        "gt_score": 31.97703197,
+        "object_id": "banana/banana_gsigma_4_tsigma_8",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is poor"
+            }
+        ],
+        "image": "banana_gsigma_4_tsigma_8.mp4"
+    },
+    {
+        "content": "banana",
+        "filename": "banana/banana_gsigma_4_tsigma_16.ply",
+        "gt_score": 27.01710822,
+        "object_id": "banana/banana_gsigma_4_tsigma_16",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is poor"
+            }
+        ],
+        "image": "banana_gsigma_4_tsigma_16.mp4"
+    },
+    {
+        "content": "banana",
+        "filename": "banana/banana_gsigma_4_tsigma_32.ply",
+        "gt_score": 23.38349674,
+        "object_id": "banana/banana_gsigma_4_tsigma_32",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is poor"
+            }
+        ],
+        "image": "banana_gsigma_4_tsigma_32.mp4"
+    },
+    {
+        "content": "banana",
+        "filename": "banana/banana_tsl_4_tqs_64.ply",
+        "gt_score": 54.12092417,
+        "object_id": "banana/banana_tsl_4_tqs_64",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ],
+        "image": "banana_tsl_4_tqs_64.mp4"
+    },
+    {
+        "content": "banana",
+        "filename": "banana/banana_tsl_4_tqs_128.ply",
+        "gt_score": 52.49538462,
+        "object_id": "banana/banana_tsl_4_tqs_128",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ],
+        "image": "banana_tsl_4_tqs_128.mp4"
+    },
+    {
+        "content": "banana",
+        "filename": "banana/banana_tsl_4_tqs_256.ply",
+        "gt_score": 34.18431286,
+        "object_id": "banana/banana_tsl_4_tqs_256",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is poor"
+            }
+        ],
+        "image": "banana_tsl_4_tqs_256.mp4"
+    },
+    {
+        "content": "banana",
+        "filename": "banana/banana_tsl_4_tqs_512.ply",
+        "gt_score": 29.94302564,
+        "object_id": "banana/banana_tsl_4_tqs_512",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is poor"
+            }
+        ],
+        "image": "banana_tsl_4_tqs_512.mp4"
+    },
+    {
+        "content": "banana",
+        "filename": "banana/banana_tsl_6_tqs_64.ply",
+        "gt_score": 83.18362987,
+        "object_id": "banana/banana_tsl_6_tqs_64",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is excellent"
+            }
+        ],
+        "image": "banana_tsl_6_tqs_64.mp4"
+    },
+    {
+        "content": "banana",
+        "filename": "banana/banana_tsl_6_tqs_128.ply",
+        "gt_score": 79.9250077,
+        "object_id": "banana/banana_tsl_6_tqs_128",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ],
+        "image": "banana_tsl_6_tqs_128.mp4"
+    },
+    {
+        "content": "banana",
+        "filename": "banana/banana_tsl_6_tqs_256.ply",
+        "gt_score": 61.62952635,
+        "object_id": "banana/banana_tsl_6_tqs_256",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ],
+        "image": "banana_tsl_6_tqs_256.mp4"
+    },
+    {
+        "content": "banana",
+        "filename": "banana/banana_tsl_6_tqs_512.ply",
+        "gt_score": 35.85265105,
+        "object_id": "banana/banana_tsl_6_tqs_512",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is poor"
+            }
+        ],
+        "image": "banana_tsl_6_tqs_512.mp4"
+    },
+    {
+        "content": "banana",
+        "filename": "banana/banana_tsl_8_tqs_64.ply",
+        "gt_score": 84.62807112,
+        "object_id": "banana/banana_tsl_8_tqs_64",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is excellent"
+            }
+        ],
+        "image": "banana_tsl_8_tqs_64.mp4"
+    },
+    {
+        "content": "banana",
+        "filename": "banana/banana_tsl_8_tqs_128.ply",
+        "gt_score": 86.14465436,
+        "object_id": "banana/banana_tsl_8_tqs_128",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is excellent"
+            }
+        ],
+        "image": "banana_tsl_8_tqs_128.mp4"
+    },
+    {
+        "content": "banana",
+        "filename": "banana/banana_tsl_8_tqs_256.ply",
+        "gt_score": 61.90144929,
+        "object_id": "banana/banana_tsl_8_tqs_256",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ],
+        "image": "banana_tsl_8_tqs_256.mp4"
+    },
+    {
+        "content": "banana",
+        "filename": "banana/banana_tsl_8_tqs_512.ply",
+        "gt_score": 38.96808477,
+        "object_id": "banana/banana_tsl_8_tqs_512",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is poor"
+            }
+        ],
+        "image": "banana_tsl_8_tqs_512.mp4"
+    },
+    {
+        "content": "banana",
+        "filename": "banana/banana_gQP_1_tQP_1.ply",
+        "gt_score": 60.30135594,
+        "object_id": "banana/banana_gQP_1_tQP_1",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ],
+        "image": "banana_gQP_1_tQP_1.mp4"
+    },
+    {
+        "content": "banana",
+        "filename": "banana/banana_gQP_1_tQP_2.ply",
+        "gt_score": 56.05951863,
+        "object_id": "banana/banana_gQP_1_tQP_2",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ],
+        "image": "banana_gQP_1_tQP_2.mp4"
+    },
+    {
+        "content": "banana",
+        "filename": "banana/banana_gQP_1_tQP_3.ply",
+        "gt_score": 52.14230175,
+        "object_id": "banana/banana_gQP_1_tQP_3",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ],
+        "image": "banana_gQP_1_tQP_3.mp4"
+    },
+    {
+        "content": "banana",
+        "filename": "banana/banana_gQP_2_tQP_1.ply",
+        "gt_score": 43.47696839,
+        "object_id": "banana/banana_gQP_2_tQP_1",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ],
+        "image": "banana_gQP_2_tQP_1.mp4"
+    },
+    {
+        "content": "banana",
+        "filename": "banana/banana_gQP_2_tQP_2.ply",
+        "gt_score": 43.98226716,
+        "object_id": "banana/banana_gQP_2_tQP_2",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ],
+        "image": "banana_gQP_2_tQP_2.mp4"
+    },
+    {
+        "content": "banana",
+        "filename": "banana/banana_gQP_2_tQP_3.ply",
+        "gt_score": 39.80857854,
+        "object_id": "banana/banana_gQP_2_tQP_3",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is poor"
+            }
+        ],
+        "image": "banana_gQP_2_tQP_3.mp4"
+    },
+    {
+        "content": "banana",
+        "filename": "banana/banana_gQP_3_tQP_1.ply",
+        "gt_score": 29.10726664,
+        "object_id": "banana/banana_gQP_3_tQP_1",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is poor"
+            }
+        ],
+        "image": "banana_gQP_3_tQP_1.mp4"
+    },
+    {
+        "content": "banana",
+        "filename": "banana/banana_gQP_3_tQP_2.ply",
+        "gt_score": 23.95632388,
+        "object_id": "banana/banana_gQP_3_tQP_2",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is poor"
+            }
+        ],
+        "image": "banana_gQP_3_tQP_2.mp4"
+    },
+    {
+        "content": "banana",
+        "filename": "banana/banana_gQP_3_tQP_3.ply",
+        "gt_score": 22.65939287,
+        "object_id": "banana/banana_gQP_3_tQP_3",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is poor"
+            }
+        ],
+        "image": "banana_gQP_3_tQP_3.mp4"
+    },
+    {
+        "content": "banana",
+        "filename": "banana/banana_pqs_1_qs_16.ply",
+        "gt_score": 82.92557282,
+        "object_id": "banana/banana_pqs_1_qs_16",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is excellent"
+            }
+        ],
+        "image": "banana_pqs_1_qs_16.mp4"
+    },
+    {
+        "content": "banana",
+        "filename": "banana/banana_pqs_1_qs_32.ply",
+        "gt_score": 78.10954901,
+        "object_id": "banana/banana_pqs_1_qs_32",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ],
+        "image": "banana_pqs_1_qs_32.mp4"
+    },
+    {
+        "content": "banana",
+        "filename": "banana/banana_pqs_1_qs_48.ply",
+        "gt_score": 61.89404966,
+        "object_id": "banana/banana_pqs_1_qs_48",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ],
+        "image": "banana_pqs_1_qs_48.mp4"
+    },
+    {
+        "content": "banana",
+        "filename": "banana/banana_pqs_1_qs_64.ply",
+        "gt_score": 40.01541846,
+        "object_id": "banana/banana_pqs_1_qs_64",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ],
+        "image": "banana_pqs_1_qs_64.mp4"
+    },
+    {
+        "content": "honeydew_melon",
+        "filename": "honeydew_melon/honeydew_melon_level_7.ply",
+        "gt_score": 5.739747099,
+        "object_id": "honeydew_melon/honeydew_melon_level_7",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is bad"
+            }
+        ],
+        "image": "honeydew_melon_level_7.mp4"
+    },
+    {
+        "content": "honeydew_melon",
+        "filename": "honeydew_melon/honeydew_melon_level_8.ply",
+        "gt_score": 20.5582786,
+        "object_id": "honeydew_melon/honeydew_melon_level_8",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is poor"
+            }
+        ],
+        "image": "honeydew_melon_level_8.mp4"
+    },
+    {
+        "content": "honeydew_melon",
+        "filename": "honeydew_melon/honeydew_melon_level_9.ply",
+        "gt_score": 87.62268458,
+        "object_id": "honeydew_melon/honeydew_melon_level_9",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is excellent"
+            }
+        ],
+        "image": "honeydew_melon_level_9.mp4"
+    },
+    {
+        "content": "honeydew_melon",
+        "filename": "honeydew_melon/honeydew_melon_gsigma_0_tsigma_8.ply",
+        "gt_score": 92.66246004,
+        "object_id": "honeydew_melon/honeydew_melon_gsigma_0_tsigma_8",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is excellent"
+            }
+        ],
+        "image": "honeydew_melon_gsigma_0_tsigma_8.mp4"
+    },
+    {
+        "content": "honeydew_melon",
+        "filename": "honeydew_melon/honeydew_melon_gsigma_0_tsigma_16.ply",
+        "gt_score": 79.57471034,
+        "object_id": "honeydew_melon/honeydew_melon_gsigma_0_tsigma_16",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ],
+        "image": "honeydew_melon_gsigma_0_tsigma_16.mp4"
+    },
+    {
+        "content": "honeydew_melon",
+        "filename": "honeydew_melon/honeydew_melon_gsigma_0_tsigma_32.ply",
+        "gt_score": 46.84073251,
+        "object_id": "honeydew_melon/honeydew_melon_gsigma_0_tsigma_32",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ],
+        "image": "honeydew_melon_gsigma_0_tsigma_32.mp4"
+    },
+    {
+        "content": "honeydew_melon",
+        "filename": "honeydew_melon/honeydew_melon_gsigma_2_tsigma_8.ply",
+        "gt_score": 65.39565957,
+        "object_id": "honeydew_melon/honeydew_melon_gsigma_2_tsigma_8",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ],
+        "image": "honeydew_melon_gsigma_2_tsigma_8.mp4"
+    },
+    {
+        "content": "honeydew_melon",
+        "filename": "honeydew_melon/honeydew_melon_gsigma_2_tsigma_16.ply",
+        "gt_score": 54.85708373,
+        "object_id": "honeydew_melon/honeydew_melon_gsigma_2_tsigma_16",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ],
+        "image": "honeydew_melon_gsigma_2_tsigma_16.mp4"
+    },
+    {
+        "content": "honeydew_melon",
+        "filename": "honeydew_melon/honeydew_melon_gsigma_2_tsigma_32.ply",
+        "gt_score": 30.28857854,
+        "object_id": "honeydew_melon/honeydew_melon_gsigma_2_tsigma_32",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is poor"
+            }
+        ],
+        "image": "honeydew_melon_gsigma_2_tsigma_32.mp4"
+    },
+    {
+        "content": "honeydew_melon",
+        "filename": "honeydew_melon/honeydew_melon_gsigma_4_tsigma_8.ply",
+        "gt_score": 40.17866933,
+        "object_id": "honeydew_melon/honeydew_melon_gsigma_4_tsigma_8",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ],
+        "image": "honeydew_melon_gsigma_4_tsigma_8.mp4"
+    },
+    {
+        "content": "honeydew_melon",
+        "filename": "honeydew_melon/honeydew_melon_gsigma_4_tsigma_16.ply",
+        "gt_score": 44.80889224,
+        "object_id": "honeydew_melon/honeydew_melon_gsigma_4_tsigma_16",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ],
+        "image": "honeydew_melon_gsigma_4_tsigma_16.mp4"
+    },
+    {
+        "content": "honeydew_melon",
+        "filename": "honeydew_melon/honeydew_melon_gsigma_4_tsigma_32.ply",
+        "gt_score": 31.01073402,
+        "object_id": "honeydew_melon/honeydew_melon_gsigma_4_tsigma_32",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is poor"
+            }
+        ],
+        "image": "honeydew_melon_gsigma_4_tsigma_32.mp4"
+    },
+    {
+        "content": "honeydew_melon",
+        "filename": "honeydew_melon/honeydew_melon_tsl_4_tqs_64.ply",
+        "gt_score": 49.65916531,
+        "object_id": "honeydew_melon/honeydew_melon_tsl_4_tqs_64",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ],
+        "image": "honeydew_melon_tsl_4_tqs_64.mp4"
+    },
+    {
+        "content": "honeydew_melon",
+        "filename": "honeydew_melon/honeydew_melon_tsl_4_tqs_128.ply",
+        "gt_score": 42.63010541,
+        "object_id": "honeydew_melon/honeydew_melon_tsl_4_tqs_128",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ],
+        "image": "honeydew_melon_tsl_4_tqs_128.mp4"
+    },
+    {
+        "content": "honeydew_melon",
+        "filename": "honeydew_melon/honeydew_melon_tsl_4_tqs_256.ply",
+        "gt_score": 25.91631271,
+        "object_id": "honeydew_melon/honeydew_melon_tsl_4_tqs_256",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is poor"
+            }
+        ],
+        "image": "honeydew_melon_tsl_4_tqs_256.mp4"
+    },
+    {
+        "content": "honeydew_melon",
+        "filename": "honeydew_melon/honeydew_melon_tsl_4_tqs_512.ply",
+        "gt_score": 10.83065115,
+        "object_id": "honeydew_melon/honeydew_melon_tsl_4_tqs_512",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is bad"
+            }
+        ],
+        "image": "honeydew_melon_tsl_4_tqs_512.mp4"
+    },
+    {
+        "content": "honeydew_melon",
+        "filename": "honeydew_melon/honeydew_melon_tsl_6_tqs_64.ply",
+        "gt_score": 54.8827352,
+        "object_id": "honeydew_melon/honeydew_melon_tsl_6_tqs_64",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ],
+        "image": "honeydew_melon_tsl_6_tqs_64.mp4"
+    },
+    {
+        "content": "honeydew_melon",
+        "filename": "honeydew_melon/honeydew_melon_tsl_6_tqs_128.ply",
+        "gt_score": 52.89687637,
+        "object_id": "honeydew_melon/honeydew_melon_tsl_6_tqs_128",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ],
+        "image": "honeydew_melon_tsl_6_tqs_128.mp4"
+    },
+    {
+        "content": "honeydew_melon",
+        "filename": "honeydew_melon/honeydew_melon_tsl_6_tqs_256.ply",
+        "gt_score": 35.59875651,
+        "object_id": "honeydew_melon/honeydew_melon_tsl_6_tqs_256",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is poor"
+            }
+        ],
+        "image": "honeydew_melon_tsl_6_tqs_256.mp4"
+    },
+    {
+        "content": "honeydew_melon",
+        "filename": "honeydew_melon/honeydew_melon_tsl_6_tqs_512.ply",
+        "gt_score": 13.90621355,
+        "object_id": "honeydew_melon/honeydew_melon_tsl_6_tqs_512",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is bad"
+            }
+        ],
+        "image": "honeydew_melon_tsl_6_tqs_512.mp4"
+    },
+    {
+        "content": "honeydew_melon",
+        "filename": "honeydew_melon/honeydew_melon_tsl_8_tqs_64.ply",
+        "gt_score": 88.0734534,
+        "object_id": "honeydew_melon/honeydew_melon_tsl_8_tqs_64",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is excellent"
+            }
+        ],
+        "image": "honeydew_melon_tsl_8_tqs_64.mp4"
+    },
+    {
+        "content": "honeydew_melon",
+        "filename": "honeydew_melon/honeydew_melon_tsl_8_tqs_128.ply",
+        "gt_score": 81.35073792,
+        "object_id": "honeydew_melon/honeydew_melon_tsl_8_tqs_128",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is excellent"
+            }
+        ],
+        "image": "honeydew_melon_tsl_8_tqs_128.mp4"
+    },
+    {
+        "content": "honeydew_melon",
+        "filename": "honeydew_melon/honeydew_melon_tsl_8_tqs_256.ply",
+        "gt_score": 41.71858667,
+        "object_id": "honeydew_melon/honeydew_melon_tsl_8_tqs_256",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ],
+        "image": "honeydew_melon_tsl_8_tqs_256.mp4"
+    },
+    {
+        "content": "honeydew_melon",
+        "filename": "honeydew_melon/honeydew_melon_tsl_8_tqs_512.ply",
+        "gt_score": 14.29429985,
+        "object_id": "honeydew_melon/honeydew_melon_tsl_8_tqs_512",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is bad"
+            }
+        ],
+        "image": "honeydew_melon_tsl_8_tqs_512.mp4"
+    },
+    {
+        "content": "honeydew_melon",
+        "filename": "honeydew_melon/honeydew_melon_gQP_1_tQP_1.ply",
+        "gt_score": 85.52765533,
+        "object_id": "honeydew_melon/honeydew_melon_gQP_1_tQP_1",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is excellent"
+            }
+        ],
+        "image": "honeydew_melon_gQP_1_tQP_1.mp4"
+    },
+    {
+        "content": "honeydew_melon",
+        "filename": "honeydew_melon/honeydew_melon_gQP_1_tQP_2.ply",
+        "gt_score": 74.17353139,
+        "object_id": "honeydew_melon/honeydew_melon_gQP_1_tQP_2",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ],
+        "image": "honeydew_melon_gQP_1_tQP_2.mp4"
+    },
+    {
+        "content": "honeydew_melon",
+        "filename": "honeydew_melon/honeydew_melon_gQP_1_tQP_3.ply",
+        "gt_score": 58.12105658,
+        "object_id": "honeydew_melon/honeydew_melon_gQP_1_tQP_3",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ],
+        "image": "honeydew_melon_gQP_1_tQP_3.mp4"
+    },
+    {
+        "content": "honeydew_melon",
+        "filename": "honeydew_melon/honeydew_melon_gQP_2_tQP_1.ply",
+        "gt_score": 63.27436376,
+        "object_id": "honeydew_melon/honeydew_melon_gQP_2_tQP_1",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ],
+        "image": "honeydew_melon_gQP_2_tQP_1.mp4"
+    },
+    {
+        "content": "honeydew_melon",
+        "filename": "honeydew_melon/honeydew_melon_gQP_2_tQP_2.ply",
+        "gt_score": 62.44898754,
+        "object_id": "honeydew_melon/honeydew_melon_gQP_2_tQP_2",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ],
+        "image": "honeydew_melon_gQP_2_tQP_2.mp4"
+    },
+    {
+        "content": "honeydew_melon",
+        "filename": "honeydew_melon/honeydew_melon_gQP_2_tQP_3.ply",
+        "gt_score": 47.44246097,
+        "object_id": "honeydew_melon/honeydew_melon_gQP_2_tQP_3",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ],
+        "image": "honeydew_melon_gQP_2_tQP_3.mp4"
+    },
+    {
+        "content": "honeydew_melon",
+        "filename": "honeydew_melon/honeydew_melon_gQP_3_tQP_1.ply",
+        "gt_score": 46.08520633,
+        "object_id": "honeydew_melon/honeydew_melon_gQP_3_tQP_1",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ],
+        "image": "honeydew_melon_gQP_3_tQP_1.mp4"
+    },
+    {
+        "content": "honeydew_melon",
+        "filename": "honeydew_melon/honeydew_melon_gQP_3_tQP_2.ply",
+        "gt_score": 45.96369786,
+        "object_id": "honeydew_melon/honeydew_melon_gQP_3_tQP_2",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ],
+        "image": "honeydew_melon_gQP_3_tQP_2.mp4"
+    },
+    {
+        "content": "honeydew_melon",
+        "filename": "honeydew_melon/honeydew_melon_gQP_3_tQP_3.ply",
+        "gt_score": 39.60295452,
+        "object_id": "honeydew_melon/honeydew_melon_gQP_3_tQP_3",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is poor"
+            }
+        ],
+        "image": "honeydew_melon_gQP_3_tQP_3.mp4"
+    },
+    {
+        "content": "honeydew_melon",
+        "filename": "honeydew_melon/honeydew_melon_pqs_1_qs_16.ply",
+        "gt_score": 88.33736389,
+        "object_id": "honeydew_melon/honeydew_melon_pqs_1_qs_16",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is excellent"
+            }
+        ],
+        "image": "honeydew_melon_pqs_1_qs_16.mp4"
+    },
+    {
+        "content": "honeydew_melon",
+        "filename": "honeydew_melon/honeydew_melon_pqs_1_qs_32.ply",
+        "gt_score": 78.17302378,
+        "object_id": "honeydew_melon/honeydew_melon_pqs_1_qs_32",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ],
+        "image": "honeydew_melon_pqs_1_qs_32.mp4"
+    },
+    {
+        "content": "honeydew_melon",
+        "filename": "honeydew_melon/honeydew_melon_pqs_1_qs_48.ply",
+        "gt_score": 62.13609637,
+        "object_id": "honeydew_melon/honeydew_melon_pqs_1_qs_48",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ],
+        "image": "honeydew_melon_pqs_1_qs_48.mp4"
+    },
+    {
+        "content": "honeydew_melon",
+        "filename": "honeydew_melon/honeydew_melon_pqs_1_qs_64.ply",
+        "gt_score": 30.17348313,
+        "object_id": "honeydew_melon/honeydew_melon_pqs_1_qs_64",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is poor"
+            }
+        ],
+        "image": "honeydew_melon_pqs_1_qs_64.mp4"
+    },
+    {
+        "content": "pen_container",
+        "filename": "pen_container/pen_container_level_7.ply",
+        "gt_score": 2.804935525,
+        "object_id": "pen_container/pen_container_level_7",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is bad"
+            }
+        ],
+        "image": "pen_container_level_7.mp4"
+    },
+    {
+        "content": "pen_container",
+        "filename": "pen_container/pen_container_level_8.ply",
+        "gt_score": 21.11616176,
+        "object_id": "pen_container/pen_container_level_8",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is poor"
+            }
+        ],
+        "image": "pen_container_level_8.mp4"
+    },
+    {
+        "content": "pen_container",
+        "filename": "pen_container/pen_container_level_9.ply",
+        "gt_score": 69.83589159,
+        "object_id": "pen_container/pen_container_level_9",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ],
+        "image": "pen_container_level_9.mp4"
+    },
+    {
+        "content": "pen_container",
+        "filename": "pen_container/pen_container_gsigma_0_tsigma_8.ply",
+        "gt_score": 89.21398884,
+        "object_id": "pen_container/pen_container_gsigma_0_tsigma_8",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is excellent"
+            }
+        ],
+        "image": "pen_container_gsigma_0_tsigma_8.mp4"
+    },
+    {
+        "content": "pen_container",
+        "filename": "pen_container/pen_container_gsigma_0_tsigma_16.ply",
+        "gt_score": 71.56783481,
+        "object_id": "pen_container/pen_container_gsigma_0_tsigma_16",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ],
+        "image": "pen_container_gsigma_0_tsigma_16.mp4"
+    },
+    {
+        "content": "pen_container",
+        "filename": "pen_container/pen_container_gsigma_0_tsigma_32.ply",
+        "gt_score": 46.96382835,
+        "object_id": "pen_container/pen_container_gsigma_0_tsigma_32",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ],
+        "image": "pen_container_gsigma_0_tsigma_32.mp4"
+    },
+    {
+        "content": "pen_container",
+        "filename": "pen_container/pen_container_gsigma_2_tsigma_8.ply",
+        "gt_score": 49.60595949,
+        "object_id": "pen_container/pen_container_gsigma_2_tsigma_8",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ],
+        "image": "pen_container_gsigma_2_tsigma_8.mp4"
+    },
+    {
+        "content": "pen_container",
+        "filename": "pen_container/pen_container_gsigma_2_tsigma_16.ply",
+        "gt_score": 42.52148539,
+        "object_id": "pen_container/pen_container_gsigma_2_tsigma_16",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ],
+        "image": "pen_container_gsigma_2_tsigma_16.mp4"
+    },
+    {
+        "content": "pen_container",
+        "filename": "pen_container/pen_container_gsigma_2_tsigma_32.ply",
+        "gt_score": 31.71810296,
+        "object_id": "pen_container/pen_container_gsigma_2_tsigma_32",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is poor"
+            }
+        ],
+        "image": "pen_container_gsigma_2_tsigma_32.mp4"
+    },
+    {
+        "content": "pen_container",
+        "filename": "pen_container/pen_container_gsigma_4_tsigma_8.ply",
+        "gt_score": 32.68372466,
+        "object_id": "pen_container/pen_container_gsigma_4_tsigma_8",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is poor"
+            }
+        ],
+        "image": "pen_container_gsigma_4_tsigma_8.mp4"
+    },
+    {
+        "content": "pen_container",
+        "filename": "pen_container/pen_container_gsigma_4_tsigma_16.ply",
+        "gt_score": 27.73032223,
+        "object_id": "pen_container/pen_container_gsigma_4_tsigma_16",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is poor"
+            }
+        ],
+        "image": "pen_container_gsigma_4_tsigma_16.mp4"
+    },
+    {
+        "content": "pen_container",
+        "filename": "pen_container/pen_container_gsigma_4_tsigma_32.ply",
+        "gt_score": 26.76427729,
+        "object_id": "pen_container/pen_container_gsigma_4_tsigma_32",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is poor"
+            }
+        ],
+        "image": "pen_container_gsigma_4_tsigma_32.mp4"
+    },
+    {
+        "content": "pen_container",
+        "filename": "pen_container/pen_container_tsl_4_tqs_64.ply",
+        "gt_score": 16.4123228,
+        "object_id": "pen_container/pen_container_tsl_4_tqs_64",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is bad"
+            }
+        ],
+        "image": "pen_container_tsl_4_tqs_64.mp4"
+    },
+    {
+        "content": "pen_container",
+        "filename": "pen_container/pen_container_tsl_4_tqs_128.ply",
+        "gt_score": 16.44390869,
+        "object_id": "pen_container/pen_container_tsl_4_tqs_128",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is bad"
+            }
+        ],
+        "image": "pen_container_tsl_4_tqs_128.mp4"
+    },
+    {
+        "content": "pen_container",
+        "filename": "pen_container/pen_container_tsl_4_tqs_256.ply",
+        "gt_score": 15.93659647,
+        "object_id": "pen_container/pen_container_tsl_4_tqs_256",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is bad"
+            }
+        ],
+        "image": "pen_container_tsl_4_tqs_256.mp4"
+    },
+    {
+        "content": "pen_container",
+        "filename": "pen_container/pen_container_tsl_4_tqs_512.ply",
+        "gt_score": 12.59679012,
+        "object_id": "pen_container/pen_container_tsl_4_tqs_512",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is bad"
+            }
+        ],
+        "image": "pen_container_tsl_4_tqs_512.mp4"
+    },
+    {
+        "content": "pen_container",
+        "filename": "pen_container/pen_container_tsl_6_tqs_64.ply",
+        "gt_score": 81.92204441,
+        "object_id": "pen_container/pen_container_tsl_6_tqs_64",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is excellent"
+            }
+        ],
+        "image": "pen_container_tsl_6_tqs_64.mp4"
+    },
+    {
+        "content": "pen_container",
+        "filename": "pen_container/pen_container_tsl_6_tqs_128.ply",
+        "gt_score": 66.92772188,
+        "object_id": "pen_container/pen_container_tsl_6_tqs_128",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ],
+        "image": "pen_container_tsl_6_tqs_128.mp4"
+    },
+    {
+        "content": "pen_container",
+        "filename": "pen_container/pen_container_tsl_6_tqs_256.ply",
+        "gt_score": 41.38784241,
+        "object_id": "pen_container/pen_container_tsl_6_tqs_256",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ],
+        "image": "pen_container_tsl_6_tqs_256.mp4"
+    },
+    {
+        "content": "pen_container",
+        "filename": "pen_container/pen_container_tsl_6_tqs_512.ply",
+        "gt_score": 25.2678055,
+        "object_id": "pen_container/pen_container_tsl_6_tqs_512",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is poor"
+            }
+        ],
+        "image": "pen_container_tsl_6_tqs_512.mp4"
+    },
+    {
+        "content": "pen_container",
+        "filename": "pen_container/pen_container_tsl_8_tqs_64.ply",
+        "gt_score": 85.34021252,
+        "object_id": "pen_container/pen_container_tsl_8_tqs_64",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is excellent"
+            }
+        ],
+        "image": "pen_container_tsl_8_tqs_64.mp4"
+    },
+    {
+        "content": "pen_container",
+        "filename": "pen_container/pen_container_tsl_8_tqs_128.ply",
+        "gt_score": 77.20825479,
+        "object_id": "pen_container/pen_container_tsl_8_tqs_128",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ],
+        "image": "pen_container_tsl_8_tqs_128.mp4"
+    },
+    {
+        "content": "pen_container",
+        "filename": "pen_container/pen_container_tsl_8_tqs_256.ply",
+        "gt_score": 56.30186956,
+        "object_id": "pen_container/pen_container_tsl_8_tqs_256",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ],
+        "image": "pen_container_tsl_8_tqs_256.mp4"
+    },
+    {
+        "content": "pen_container",
+        "filename": "pen_container/pen_container_tsl_8_tqs_512.ply",
+        "gt_score": 33.14918481,
+        "object_id": "pen_container/pen_container_tsl_8_tqs_512",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is poor"
+            }
+        ],
+        "image": "pen_container_tsl_8_tqs_512.mp4"
+    },
+    {
+        "content": "pen_container",
+        "filename": "pen_container/pen_container_gQP_1_tQP_1.ply",
+        "gt_score": 73.52634804,
+        "object_id": "pen_container/pen_container_gQP_1_tQP_1",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ],
+        "image": "pen_container_gQP_1_tQP_1.mp4"
+    },
+    {
+        "content": "pen_container",
+        "filename": "pen_container/pen_container_gQP_1_tQP_2.ply",
+        "gt_score": 70.28884535,
+        "object_id": "pen_container/pen_container_gQP_1_tQP_2",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ],
+        "image": "pen_container_gQP_1_tQP_2.mp4"
+    },
+    {
+        "content": "pen_container",
+        "filename": "pen_container/pen_container_gQP_1_tQP_3.ply",
+        "gt_score": 46.53720777,
+        "object_id": "pen_container/pen_container_gQP_1_tQP_3",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ],
+        "image": "pen_container_gQP_1_tQP_3.mp4"
+    },
+    {
+        "content": "pen_container",
+        "filename": "pen_container/pen_container_gQP_2_tQP_1.ply",
+        "gt_score": 53.34469001,
+        "object_id": "pen_container/pen_container_gQP_2_tQP_1",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ],
+        "image": "pen_container_gQP_2_tQP_1.mp4"
+    },
+    {
+        "content": "pen_container",
+        "filename": "pen_container/pen_container_gQP_2_tQP_2.ply",
+        "gt_score": 44.33274307,
+        "object_id": "pen_container/pen_container_gQP_2_tQP_2",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ],
+        "image": "pen_container_gQP_2_tQP_2.mp4"
+    },
+    {
+        "content": "pen_container",
+        "filename": "pen_container/pen_container_gQP_2_tQP_3.ply",
+        "gt_score": 48.20411042,
+        "object_id": "pen_container/pen_container_gQP_2_tQP_3",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ],
+        "image": "pen_container_gQP_2_tQP_3.mp4"
+    },
+    {
+        "content": "pen_container",
+        "filename": "pen_container/pen_container_gQP_3_tQP_1.ply",
+        "gt_score": 33.30402412,
+        "object_id": "pen_container/pen_container_gQP_3_tQP_1",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is poor"
+            }
+        ],
+        "image": "pen_container_gQP_3_tQP_1.mp4"
+    },
+    {
+        "content": "pen_container",
+        "filename": "pen_container/pen_container_gQP_3_tQP_2.ply",
+        "gt_score": 41.84397306,
+        "object_id": "pen_container/pen_container_gQP_3_tQP_2",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ],
+        "image": "pen_container_gQP_3_tQP_2.mp4"
+    },
+    {
+        "content": "pen_container",
+        "filename": "pen_container/pen_container_gQP_3_tQP_3.ply",
+        "gt_score": 31.29669104,
+        "object_id": "pen_container/pen_container_gQP_3_tQP_3",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is poor"
+            }
+        ],
+        "image": "pen_container_gQP_3_tQP_3.mp4"
+    },
+    {
+        "content": "pen_container",
+        "filename": "pen_container/pen_container_pqs_1_qs_16.ply",
+        "gt_score": 89.99880847,
+        "object_id": "pen_container/pen_container_pqs_1_qs_16",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is excellent"
+            }
+        ],
+        "image": "pen_container_pqs_1_qs_16.mp4"
+    },
+    {
+        "content": "pen_container",
+        "filename": "pen_container/pen_container_pqs_1_qs_32.ply",
+        "gt_score": 76.86578198,
+        "object_id": "pen_container/pen_container_pqs_1_qs_32",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ],
+        "image": "pen_container_pqs_1_qs_32.mp4"
+    },
+    {
+        "content": "pen_container",
+        "filename": "pen_container/pen_container_pqs_1_qs_48.ply",
+        "gt_score": 65.20220124,
+        "object_id": "pen_container/pen_container_pqs_1_qs_48",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ],
+        "image": "pen_container_pqs_1_qs_48.mp4"
+    },
+    {
+        "content": "pen_container",
+        "filename": "pen_container/pen_container_pqs_1_qs_64.ply",
+        "gt_score": 54.48224583,
+        "object_id": "pen_container/pen_container_pqs_1_qs_64",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with point size of 3 mm, cameras at 2.5m from the object and perspective projection. Following are views of the point cloud.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ],
+        "image": "pen_container_pqs_1_qs_64.mp4"
+    }
+]

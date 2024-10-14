@@ -1,0 +1,2702 @@
+[
+    {
+        "img_path": "BirdToucan_losslessG-limitlossyA_3.mp4",
+        "gt_score": 4.833333333,
+        "object_id": "BirdToucan_losslessG-limitlossyA_3",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is excellent"
+            }
+        ]
+    },
+    {
+        "img_path": "BirdToucan_losslessG-limitlossyA_4.mp4",
+        "gt_score": 4.8,
+        "object_id": "BirdToucan_losslessG-limitlossyA_4",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is excellent"
+            }
+        ]
+    },
+    {
+        "img_path": "BirdToucan_losslessG-limitlossyA_5.mp4",
+        "gt_score": 4.333333333,
+        "object_id": "BirdToucan_losslessG-limitlossyA_5",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is excellent"
+            }
+        ]
+    },
+    {
+        "img_path": "BirdToucan_losslessG-limitlossyA_6.mp4",
+        "gt_score": 3.766666667,
+        "object_id": "BirdToucan_losslessG-limitlossyA_6",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ]
+    },
+    {
+        "img_path": "BirdToucan_losslessG-limitlossyA_7.mp4",
+        "gt_score": 3.533333333,
+        "object_id": "BirdToucan_losslessG-limitlossyA_7",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ]
+    },
+    {
+        "img_path": "BirdToucan_MeanShift_1.mp4",
+        "gt_score": 4.821428571,
+        "object_id": "BirdToucan_MeanShift_1",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is excellent"
+            }
+        ]
+    },
+    {
+        "img_path": "BirdToucan_MeanShift_3.mp4",
+        "gt_score": 3.714285714,
+        "object_id": "BirdToucan_MeanShift_3",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ]
+    },
+    {
+        "img_path": "BirdToucan_MeanShift_4.mp4",
+        "gt_score": 3.071428571,
+        "object_id": "BirdToucan_MeanShift_4",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ]
+    },
+    {
+        "img_path": "BirdToucan_MeanShift_5.mp4",
+        "gt_score": 3.107142857,
+        "object_id": "BirdToucan_MeanShift_5",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ]
+    },
+    {
+        "img_path": "BirdToucan_MeanShift_7.mp4",
+        "gt_score": 2.428571429,
+        "object_id": "BirdToucan_MeanShift_7",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ]
+    },
+    {
+        "img_path": "BirdV6_Octree_1.mp4",
+        "gt_score": 3.25,
+        "object_id": "BirdV6_Octree_1",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ]
+    },
+    {
+        "img_path": "BirdV6_Octree_2.mp4",
+        "gt_score": 2.766666667,
+        "object_id": "BirdV6_Octree_2",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ]
+    },
+    {
+        "img_path": "BirdV6_Octree_3.mp4",
+        "gt_score": 2.714285714,
+        "object_id": "BirdV6_Octree_3",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ]
+    },
+    {
+        "img_path": "BirdV6_Octree_4.mp4",
+        "gt_score": 2.40625,
+        "object_id": "BirdV6_Octree_4",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ]
+    },
+    {
+        "img_path": "BirdV6_Octree_5.mp4",
+        "gt_score": 2.357142857,
+        "object_id": "BirdV6_Octree_5",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ]
+    },
+    {
+        "img_path": "bristleback_GaussianNoise_1.mp4",
+        "gt_score": 3.428571429,
+        "object_id": "bristleback_GaussianNoise_1",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ]
+    },
+    {
+        "img_path": "bristleback_GaussianNoise_3.mp4",
+        "gt_score": 3.5,
+        "object_id": "bristleback_GaussianNoise_3",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ]
+    },
+    {
+        "img_path": "bristleback_GaussianNoise_4.mp4",
+        "gt_score": 3.2,
+        "object_id": "bristleback_GaussianNoise_4",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ]
+    },
+    {
+        "img_path": "bristleback_GaussianNoise_5.mp4",
+        "gt_score": 2.785714286,
+        "object_id": "bristleback_GaussianNoise_5",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ]
+    },
+    {
+        "img_path": "bristleback_GaussianNoise_7.mp4",
+        "gt_score": 2.4,
+        "object_id": "bristleback_GaussianNoise_7",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ]
+    },
+    {
+        "img_path": "bristleback_MultiplicativeGaussianNoise_1.mp4",
+        "gt_score": 3.535714286,
+        "object_id": "bristleback_MultiplicativeGaussianNoise_1",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ]
+    },
+    {
+        "img_path": "bristleback_MultiplicativeGaussianNoise_3.mp4",
+        "gt_score": 3.214285714,
+        "object_id": "bristleback_MultiplicativeGaussianNoise_3",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ]
+    },
+    {
+        "img_path": "bristleback_MultiplicativeGaussianNoise_4.mp4",
+        "gt_score": 2.964285714,
+        "object_id": "bristleback_MultiplicativeGaussianNoise_4",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ]
+    },
+    {
+        "img_path": "bristleback_MultiplicativeGaussianNoise_5.mp4",
+        "gt_score": 3.03125,
+        "object_id": "bristleback_MultiplicativeGaussianNoise_5",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ]
+    },
+    {
+        "img_path": "bristleback_MultiplicativeGaussianNoise_7.mp4",
+        "gt_score": 2.766666667,
+        "object_id": "bristleback_MultiplicativeGaussianNoise_7",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ]
+    },
+    {
+        "img_path": "Cat_ColorNoise_3.mp4",
+        "gt_score": 4.65625,
+        "object_id": "Cat_ColorNoise_3",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is excellent"
+            }
+        ]
+    },
+    {
+        "img_path": "Cat_ColorNoise_4.mp4",
+        "gt_score": 4.035714286,
+        "object_id": "Cat_ColorNoise_4",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is excellent"
+            }
+        ]
+    },
+    {
+        "img_path": "Cat_ColorNoise_5.mp4",
+        "gt_score": 3.714285714,
+        "object_id": "Cat_ColorNoise_5",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ]
+    },
+    {
+        "img_path": "Cat_ColorNoise_6.mp4",
+        "gt_score": 3.433333333,
+        "object_id": "Cat_ColorNoise_6",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ]
+    },
+    {
+        "img_path": "Cat_ColorNoise_7.mp4",
+        "gt_score": 3.25,
+        "object_id": "Cat_ColorNoise_7",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ]
+    },
+    {
+        "img_path": "Cat_PoissonNoise_3.mp4",
+        "gt_score": 4.366666667,
+        "object_id": "Cat_PoissonNoise_3",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is excellent"
+            }
+        ]
+    },
+    {
+        "img_path": "Cat_PoissonNoise_4.mp4",
+        "gt_score": 4.3,
+        "object_id": "Cat_PoissonNoise_4",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is excellent"
+            }
+        ]
+    },
+    {
+        "img_path": "Cat_PoissonNoise_5.mp4",
+        "gt_score": 3.464285714,
+        "object_id": "Cat_PoissonNoise_5",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ]
+    },
+    {
+        "img_path": "Cat_PoissonNoise_6.mp4",
+        "gt_score": 3.8125,
+        "object_id": "Cat_PoissonNoise_6",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ]
+    },
+    {
+        "img_path": "Cat_PoissonNoise_7.mp4",
+        "gt_score": 3.321428571,
+        "object_id": "Cat_PoissonNoise_7",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ]
+    },
+    {
+        "img_path": "crabV2_ColorQuantizationDither_3.mp4",
+        "gt_score": 4.25,
+        "object_id": "crabV2_ColorQuantizationDither_3",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is excellent"
+            }
+        ]
+    },
+    {
+        "img_path": "crabV2_ColorQuantizationDither_4.mp4",
+        "gt_score": 3.321428571,
+        "object_id": "crabV2_ColorQuantizationDither_4",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ]
+    },
+    {
+        "img_path": "crabV2_ColorQuantizationDither_5.mp4",
+        "gt_score": 2.966666667,
+        "object_id": "crabV2_ColorQuantizationDither_5",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ]
+    },
+    {
+        "img_path": "crabV2_ColorQuantizationDither_6.mp4",
+        "gt_score": 2.285714286,
+        "object_id": "crabV2_ColorQuantizationDither_6",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ]
+    },
+    {
+        "img_path": "crabV2_ColorQuantizationDither_7.mp4",
+        "gt_score": 2.178571429,
+        "object_id": "crabV2_ColorQuantizationDither_7",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ]
+    },
+    {
+        "img_path": "Dragon_LocalRotation_1.mp4",
+        "gt_score": 3.25,
+        "object_id": "Dragon_LocalRotation_1",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ]
+    },
+    {
+        "img_path": "Dragon_LocalRotation_2.mp4",
+        "gt_score": 3.0625,
+        "object_id": "Dragon_LocalRotation_2",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ]
+    },
+    {
+        "img_path": "Dragon_LocalRotation_3.mp4",
+        "gt_score": 1.214285714,
+        "object_id": "Dragon_LocalRotation_3",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is poor"
+            }
+        ]
+    },
+    {
+        "img_path": "Dragon_LocalRotation_4.mp4",
+        "gt_score": 1.133333333,
+        "object_id": "Dragon_LocalRotation_4",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is poor"
+            }
+        ]
+    },
+    {
+        "img_path": "Dragon_LocalRotation_5.mp4",
+        "gt_score": 1.0,
+        "object_id": "Dragon_LocalRotation_5",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is bad"
+            }
+        ]
+    },
+    {
+        "img_path": "Facade00064_GaussianNoise_1.mp4",
+        "gt_score": 2.821428571,
+        "object_id": "Facade00064_GaussianNoise_1",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ]
+    },
+    {
+        "img_path": "Facade00064_GaussianNoise_3.mp4",
+        "gt_score": 2.5,
+        "object_id": "Facade00064_GaussianNoise_3",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ]
+    },
+    {
+        "img_path": "Facade00064_GaussianNoise_4.mp4",
+        "gt_score": 1.7,
+        "object_id": "Facade00064_GaussianNoise_4",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is poor"
+            }
+        ]
+    },
+    {
+        "img_path": "Facade00064_GaussianNoise_5.mp4",
+        "gt_score": 2.0,
+        "object_id": "Facade00064_GaussianNoise_5",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is poor"
+            }
+        ]
+    },
+    {
+        "img_path": "Facade00064_GaussianNoise_7.mp4",
+        "gt_score": 1.5,
+        "object_id": "Facade00064_GaussianNoise_7",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is poor"
+            }
+        ]
+    },
+    {
+        "img_path": "Facade00064_LocalOffset_1.mp4",
+        "gt_score": 2.392857143,
+        "object_id": "Facade00064_LocalOffset_1",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ]
+    },
+    {
+        "img_path": "Facade00064_LocalOffset_2.mp4",
+        "gt_score": 2.266666667,
+        "object_id": "Facade00064_LocalOffset_2",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ]
+    },
+    {
+        "img_path": "Facade00064_LocalOffset_3.mp4",
+        "gt_score": 1.928571429,
+        "object_id": "Facade00064_LocalOffset_3",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is poor"
+            }
+        ]
+    },
+    {
+        "img_path": "Facade00064_LocalOffset_4.mp4",
+        "gt_score": 1.566666667,
+        "object_id": "Facade00064_LocalOffset_4",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is poor"
+            }
+        ]
+    },
+    {
+        "img_path": "Facade00064_LocalOffset_5.mp4",
+        "gt_score": 1.214285714,
+        "object_id": "Facade00064_LocalOffset_5",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is poor"
+            }
+        ]
+    },
+    {
+        "img_path": "Facade00064_LocalRotation_1.mp4",
+        "gt_score": 2.40625,
+        "object_id": "Facade00064_LocalRotation_1",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ]
+    },
+    {
+        "img_path": "Facade00064_LocalRotation_2.mp4",
+        "gt_score": 1.464285714,
+        "object_id": "Facade00064_LocalRotation_2",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is poor"
+            }
+        ]
+    },
+    {
+        "img_path": "Facade00064_LocalRotation_3.mp4",
+        "gt_score": 1.571428571,
+        "object_id": "Facade00064_LocalRotation_3",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is poor"
+            }
+        ]
+    },
+    {
+        "img_path": "Facade00064_LocalRotation_4.mp4",
+        "gt_score": 1.035714286,
+        "object_id": "Facade00064_LocalRotation_4",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is poor"
+            }
+        ]
+    },
+    {
+        "img_path": "Facade00064_LocalRotation_5.mp4",
+        "gt_score": 1.071428571,
+        "object_id": "Facade00064_LocalRotation_5",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is poor"
+            }
+        ]
+    },
+    {
+        "img_path": "Facade00064_losslessG-limitlossyA_3.mp4",
+        "gt_score": 4.666666667,
+        "object_id": "Facade00064_losslessG-limitlossyA_3",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is excellent"
+            }
+        ]
+    },
+    {
+        "img_path": "Facade00064_losslessG-limitlossyA_4.mp4",
+        "gt_score": 4.535714286,
+        "object_id": "Facade00064_losslessG-limitlossyA_4",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is excellent"
+            }
+        ]
+    },
+    {
+        "img_path": "Facade00064_losslessG-limitlossyA_5.mp4",
+        "gt_score": 3.821428571,
+        "object_id": "Facade00064_losslessG-limitlossyA_5",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ]
+    },
+    {
+        "img_path": "Facade00064_losslessG-limitlossyA_6.mp4",
+        "gt_score": 3.214285714,
+        "object_id": "Facade00064_losslessG-limitlossyA_6",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ]
+    },
+    {
+        "img_path": "Facade00064_losslessG-limitlossyA_7.mp4",
+        "gt_score": 1.875,
+        "object_id": "Facade00064_losslessG-limitlossyA_7",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is poor"
+            }
+        ]
+    },
+    {
+        "img_path": "Facade00064_RayleighNoise_1.mp4",
+        "gt_score": 4.066666667,
+        "object_id": "Facade00064_RayleighNoise_1",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is excellent"
+            }
+        ]
+    },
+    {
+        "img_path": "Facade00064_RayleighNoise_3.mp4",
+        "gt_score": 2.678571429,
+        "object_id": "Facade00064_RayleighNoise_3",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ]
+    },
+    {
+        "img_path": "Facade00064_RayleighNoise_4.mp4",
+        "gt_score": 2.71875,
+        "object_id": "Facade00064_RayleighNoise_4",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ]
+    },
+    {
+        "img_path": "Facade00064_RayleighNoise_5.mp4",
+        "gt_score": 2.333333333,
+        "object_id": "Facade00064_RayleighNoise_5",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ]
+    },
+    {
+        "img_path": "Facade00064_RayleighNoise_7.mp4",
+        "gt_score": 1.928571429,
+        "object_id": "Facade00064_RayleighNoise_7",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is poor"
+            }
+        ]
+    },
+    {
+        "img_path": "GermanBoxer_GaussianNoise_1.mp4",
+        "gt_score": 4.035714286,
+        "object_id": "GermanBoxer_GaussianNoise_1",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is excellent"
+            }
+        ]
+    },
+    {
+        "img_path": "GermanBoxer_GaussianNoise_3.mp4",
+        "gt_score": 3.321428571,
+        "object_id": "GermanBoxer_GaussianNoise_3",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ]
+    },
+    {
+        "img_path": "GermanBoxer_GaussianNoise_4.mp4",
+        "gt_score": 3.107142857,
+        "object_id": "GermanBoxer_GaussianNoise_4",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ]
+    },
+    {
+        "img_path": "GermanBoxer_GaussianNoise_5.mp4",
+        "gt_score": 3.21875,
+        "object_id": "GermanBoxer_GaussianNoise_5",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ]
+    },
+    {
+        "img_path": "GermanBoxer_GaussianNoise_7.mp4",
+        "gt_score": 2.875,
+        "object_id": "GermanBoxer_GaussianNoise_7",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ]
+    },
+    {
+        "img_path": "GermanBoxer_SaltpepperNoise_1.mp4",
+        "gt_score": 3.633333333,
+        "object_id": "GermanBoxer_SaltpepperNoise_1",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ]
+    },
+    {
+        "img_path": "GermanBoxer_SaltpepperNoise_3.mp4",
+        "gt_score": 2.90625,
+        "object_id": "GermanBoxer_SaltpepperNoise_3",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ]
+    },
+    {
+        "img_path": "GermanBoxer_SaltpepperNoise_4.mp4",
+        "gt_score": 2.857142857,
+        "object_id": "GermanBoxer_SaltpepperNoise_4",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ]
+    },
+    {
+        "img_path": "GermanBoxer_SaltpepperNoise_5.mp4",
+        "gt_score": 2.535714286,
+        "object_id": "GermanBoxer_SaltpepperNoise_5",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ]
+    },
+    {
+        "img_path": "GermanBoxer_SaltpepperNoise_7.mp4",
+        "gt_score": 2.5,
+        "object_id": "GermanBoxer_SaltpepperNoise_7",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ]
+    },
+    {
+        "img_path": "jetanima_MultiplicativeGaussianNoise_1.mp4",
+        "gt_score": 3.5,
+        "object_id": "jetanima_MultiplicativeGaussianNoise_1",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ]
+    },
+    {
+        "img_path": "jetanima_MultiplicativeGaussianNoise_3.mp4",
+        "gt_score": 3.321428571,
+        "object_id": "jetanima_MultiplicativeGaussianNoise_3",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ]
+    },
+    {
+        "img_path": "jetanima_MultiplicativeGaussianNoise_4.mp4",
+        "gt_score": 2.821428571,
+        "object_id": "jetanima_MultiplicativeGaussianNoise_4",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ]
+    },
+    {
+        "img_path": "jetanima_MultiplicativeGaussianNoise_5.mp4",
+        "gt_score": 2.9,
+        "object_id": "jetanima_MultiplicativeGaussianNoise_5",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ]
+    },
+    {
+        "img_path": "jetanima_MultiplicativeGaussianNoise_7.mp4",
+        "gt_score": 2.321428571,
+        "object_id": "jetanima_MultiplicativeGaussianNoise_7",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ]
+    },
+    {
+        "img_path": "jetanima_UniformShifting_1.mp4",
+        "gt_score": 4.392857143,
+        "object_id": "jetanima_UniformShifting_1",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is excellent"
+            }
+        ]
+    },
+    {
+        "img_path": "jetanima_UniformShifting_2.mp4",
+        "gt_score": 3.6,
+        "object_id": "jetanima_UniformShifting_2",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ]
+    },
+    {
+        "img_path": "jetanima_UniformShifting_3.mp4",
+        "gt_score": 3.035714286,
+        "object_id": "jetanima_UniformShifting_3",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ]
+    },
+    {
+        "img_path": "jetanima_UniformShifting_4.mp4",
+        "gt_score": 2.59375,
+        "object_id": "jetanima_UniformShifting_4",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ]
+    },
+    {
+        "img_path": "jetanima_UniformShifting_5.mp4",
+        "gt_score": 2.5625,
+        "object_id": "jetanima_UniformShifting_5",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ]
+    },
+    {
+        "img_path": "Mario_GaussianNoise_1.mp4",
+        "gt_score": 3.571428571,
+        "object_id": "Mario_GaussianNoise_1",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ]
+    },
+    {
+        "img_path": "Mario_GaussianNoise_3.mp4",
+        "gt_score": 3.321428571,
+        "object_id": "Mario_GaussianNoise_3",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ]
+    },
+    {
+        "img_path": "Mario_GaussianNoise_4.mp4",
+        "gt_score": 3.214285714,
+        "object_id": "Mario_GaussianNoise_4",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ]
+    },
+    {
+        "img_path": "Mario_GaussianNoise_5.mp4",
+        "gt_score": 2.928571429,
+        "object_id": "Mario_GaussianNoise_5",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ]
+    },
+    {
+        "img_path": "Mario_GaussianNoise_7.mp4",
+        "gt_score": 2.821428571,
+        "object_id": "Mario_GaussianNoise_7",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ]
+    },
+    {
+        "img_path": "Mario_GaussianShifting_1.mp4",
+        "gt_score": 4.46875,
+        "object_id": "Mario_GaussianShifting_1",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is excellent"
+            }
+        ]
+    },
+    {
+        "img_path": "Mario_GaussianShifting_2.mp4",
+        "gt_score": 3.785714286,
+        "object_id": "Mario_GaussianShifting_2",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ]
+    },
+    {
+        "img_path": "Mario_GaussianShifting_3.mp4",
+        "gt_score": 3.366666667,
+        "object_id": "Mario_GaussianShifting_3",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ]
+    },
+    {
+        "img_path": "Mario_GaussianShifting_4.mp4",
+        "gt_score": 3.0,
+        "object_id": "Mario_GaussianShifting_4",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ]
+    },
+    {
+        "img_path": "Mario_GaussianShifting_5.mp4",
+        "gt_score": 2.714285714,
+        "object_id": "Mario_GaussianShifting_5",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ]
+    },
+    {
+        "img_path": "Mario_Octree_1.mp4",
+        "gt_score": 3.7,
+        "object_id": "Mario_Octree_1",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ]
+    },
+    {
+        "img_path": "Mario_Octree_2.mp4",
+        "gt_score": 3.035714286,
+        "object_id": "Mario_Octree_2",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ]
+    },
+    {
+        "img_path": "Mario_Octree_3.mp4",
+        "gt_score": 2.571428571,
+        "object_id": "Mario_Octree_3",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ]
+    },
+    {
+        "img_path": "Mario_Octree_4.mp4",
+        "gt_score": 2.5,
+        "object_id": "Mario_Octree_4",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ]
+    },
+    {
+        "img_path": "Mario_Octree_5.mp4",
+        "gt_score": 2.392857143,
+        "object_id": "Mario_Octree_5",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ]
+    },
+    {
+        "img_path": "Mario_reconstruction_3.mp4",
+        "gt_score": 3.90625,
+        "object_id": "Mario_reconstruction_3",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ]
+    },
+    {
+        "img_path": "Mario_reconstruction_4.mp4",
+        "gt_score": 4.15625,
+        "object_id": "Mario_reconstruction_4",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is excellent"
+            }
+        ]
+    },
+    {
+        "img_path": "Mario_reconstruction_5.mp4",
+        "gt_score": 3.84375,
+        "object_id": "Mario_reconstruction_5",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ]
+    },
+    {
+        "img_path": "Mario_reconstruction_6.mp4",
+        "gt_score": 4.166666667,
+        "object_id": "Mario_reconstruction_6",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is excellent"
+            }
+        ]
+    },
+    {
+        "img_path": "Mario_reconstruction_7.mp4",
+        "gt_score": 3.178571429,
+        "object_id": "Mario_reconstruction_7",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ]
+    },
+    {
+        "img_path": "ParrotV1_lossless-geom-nearlossless-attrs_3.mp4",
+        "gt_score": 4.9,
+        "object_id": "ParrotV1_lossless-geom-nearlossless-attrs_3",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is excellent"
+            }
+        ]
+    },
+    {
+        "img_path": "ParrotV1_lossless-geom-nearlossless-attrs_4.mp4",
+        "gt_score": 4.625,
+        "object_id": "ParrotV1_lossless-geom-nearlossless-attrs_4",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is excellent"
+            }
+        ]
+    },
+    {
+        "img_path": "ParrotV1_lossless-geom-nearlossless-attrs_5.mp4",
+        "gt_score": 4.5625,
+        "object_id": "ParrotV1_lossless-geom-nearlossless-attrs_5",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is excellent"
+            }
+        ]
+    },
+    {
+        "img_path": "ParrotV1_lossless-geom-nearlossless-attrs_6.mp4",
+        "gt_score": 3.928571429,
+        "object_id": "ParrotV1_lossless-geom-nearlossless-attrs_6",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ]
+    },
+    {
+        "img_path": "ParrotV1_lossless-geom-nearlossless-attrs_7.mp4",
+        "gt_score": 2.78125,
+        "object_id": "ParrotV1_lossless-geom-nearlossless-attrs_7",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ]
+    },
+    {
+        "img_path": "QQdog_ColorQuantizationDither_3.mp4",
+        "gt_score": 4.3125,
+        "object_id": "QQdog_ColorQuantizationDither_3",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is excellent"
+            }
+        ]
+    },
+    {
+        "img_path": "QQdog_ColorQuantizationDither_4.mp4",
+        "gt_score": 4.033333333,
+        "object_id": "QQdog_ColorQuantizationDither_4",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is excellent"
+            }
+        ]
+    },
+    {
+        "img_path": "QQdog_ColorQuantizationDither_5.mp4",
+        "gt_score": 4.25,
+        "object_id": "QQdog_ColorQuantizationDither_5",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is excellent"
+            }
+        ]
+    },
+    {
+        "img_path": "QQdog_ColorQuantizationDither_6.mp4",
+        "gt_score": 3.1875,
+        "object_id": "QQdog_ColorQuantizationDither_6",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ]
+    },
+    {
+        "img_path": "QQdog_ColorQuantizationDither_7.mp4",
+        "gt_score": 2.285714286,
+        "object_id": "QQdog_ColorQuantizationDither_7",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ]
+    },
+    {
+        "img_path": "QQdog_MeanShift_1.mp4",
+        "gt_score": 4.535714286,
+        "object_id": "QQdog_MeanShift_1",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is excellent"
+            }
+        ]
+    },
+    {
+        "img_path": "QQdog_MeanShift_3.mp4",
+        "gt_score": 3.71875,
+        "object_id": "QQdog_MeanShift_3",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ]
+    },
+    {
+        "img_path": "QQdog_MeanShift_4.mp4",
+        "gt_score": 3.033333333,
+        "object_id": "QQdog_MeanShift_4",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ]
+    },
+    {
+        "img_path": "QQdog_MeanShift_5.mp4",
+        "gt_score": 2.866666667,
+        "object_id": "QQdog_MeanShift_5",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ]
+    },
+    {
+        "img_path": "QQdog_MeanShift_7.mp4",
+        "gt_score": 2.428571429,
+        "object_id": "QQdog_MeanShift_7",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ]
+    },
+    {
+        "img_path": "redandblack_ColorQuantizationDither_3.mp4",
+        "gt_score": 3.821428571,
+        "object_id": "redandblack_ColorQuantizationDither_3",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ]
+    },
+    {
+        "img_path": "redandblack_ColorQuantizationDither_4.mp4",
+        "gt_score": 3.678571429,
+        "object_id": "redandblack_ColorQuantizationDither_4",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ]
+    },
+    {
+        "img_path": "redandblack_ColorQuantizationDither_5.mp4",
+        "gt_score": 3.642857143,
+        "object_id": "redandblack_ColorQuantizationDither_5",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ]
+    },
+    {
+        "img_path": "redandblack_ColorQuantizationDither_6.mp4",
+        "gt_score": 3.25,
+        "object_id": "redandblack_ColorQuantizationDither_6",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ]
+    },
+    {
+        "img_path": "redandblack_ColorQuantizationDither_7.mp4",
+        "gt_score": 2.233333333,
+        "object_id": "redandblack_ColorQuantizationDither_7",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ]
+    },
+    {
+        "img_path": "redandblack_LocalLoss_1.mp4",
+        "gt_score": 4.566666667,
+        "object_id": "redandblack_LocalLoss_1",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is excellent"
+            }
+        ]
+    },
+    {
+        "img_path": "redandblack_LocalLoss_2.mp4",
+        "gt_score": 2.966666667,
+        "object_id": "redandblack_LocalLoss_2",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ]
+    },
+    {
+        "img_path": "redandblack_LocalLoss_3.mp4",
+        "gt_score": 3.607142857,
+        "object_id": "redandblack_LocalLoss_3",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ]
+    },
+    {
+        "img_path": "redandblack_LocalLoss_4.mp4",
+        "gt_score": 3.0,
+        "object_id": "redandblack_LocalLoss_4",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ]
+    },
+    {
+        "img_path": "redandblack_LocalLoss_5.mp4",
+        "gt_score": 2.0,
+        "object_id": "redandblack_LocalLoss_5",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is poor"
+            }
+        ]
+    },
+    {
+        "img_path": "redandblack_SaturationDistortion_1.mp4",
+        "gt_score": 4.2,
+        "object_id": "redandblack_SaturationDistortion_1",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is excellent"
+            }
+        ]
+    },
+    {
+        "img_path": "redandblack_SaturationDistortion_2.mp4",
+        "gt_score": 3.535714286,
+        "object_id": "redandblack_SaturationDistortion_2",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ]
+    },
+    {
+        "img_path": "redandblack_SaturationDistortion_3.mp4",
+        "gt_score": 2.9,
+        "object_id": "redandblack_SaturationDistortion_3",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ]
+    },
+    {
+        "img_path": "redandblack_SaturationDistortion_4.mp4",
+        "gt_score": 2.571428571,
+        "object_id": "redandblack_SaturationDistortion_4",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ]
+    },
+    {
+        "img_path": "redandblack_SaturationDistortion_5.mp4",
+        "gt_score": 2.7,
+        "object_id": "redandblack_SaturationDistortion_5",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ]
+    },
+    {
+        "img_path": "RpDennisPosed004_ColorQuantizationDither_3.mp4",
+        "gt_score": 3.78125,
+        "object_id": "RpDennisPosed004_ColorQuantizationDither_3",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ]
+    },
+    {
+        "img_path": "RpDennisPosed004_ColorQuantizationDither_4.mp4",
+        "gt_score": 3.5,
+        "object_id": "RpDennisPosed004_ColorQuantizationDither_4",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ]
+    },
+    {
+        "img_path": "RpDennisPosed004_ColorQuantizationDither_5.mp4",
+        "gt_score": 2.5,
+        "object_id": "RpDennisPosed004_ColorQuantizationDither_5",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ]
+    },
+    {
+        "img_path": "RpDennisPosed004_ColorQuantizationDither_6.mp4",
+        "gt_score": 2.75,
+        "object_id": "RpDennisPosed004_ColorQuantizationDither_6",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ]
+    },
+    {
+        "img_path": "RpDennisPosed004_ColorQuantizationDither_7.mp4",
+        "gt_score": 2.464285714,
+        "object_id": "RpDennisPosed004_ColorQuantizationDither_7",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ]
+    },
+    {
+        "img_path": "RpDennisPosed004_LocalOffset_1.mp4",
+        "gt_score": 2.75,
+        "object_id": "RpDennisPosed004_LocalOffset_1",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ]
+    },
+    {
+        "img_path": "RpDennisPosed004_LocalOffset_2.mp4",
+        "gt_score": 2.7,
+        "object_id": "RpDennisPosed004_LocalOffset_2",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ]
+    },
+    {
+        "img_path": "RpDennisPosed004_LocalOffset_3.mp4",
+        "gt_score": 2.392857143,
+        "object_id": "RpDennisPosed004_LocalOffset_3",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ]
+    },
+    {
+        "img_path": "RpDennisPosed004_LocalOffset_4.mp4",
+        "gt_score": 1.21875,
+        "object_id": "RpDennisPosed004_LocalOffset_4",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is poor"
+            }
+        ]
+    },
+    {
+        "img_path": "RpDennisPosed004_LocalOffset_5.mp4",
+        "gt_score": 1.214285714,
+        "object_id": "RpDennisPosed004_LocalOffset_5",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is poor"
+            }
+        ]
+    },
+    {
+        "img_path": "RpDennisPosed004_UniformNoise_1.mp4",
+        "gt_score": 4.821428571,
+        "object_id": "RpDennisPosed004_UniformNoise_1",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is excellent"
+            }
+        ]
+    },
+    {
+        "img_path": "RpDennisPosed004_UniformNoise_3.mp4",
+        "gt_score": 3.678571429,
+        "object_id": "RpDennisPosed004_UniformNoise_3",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ]
+    },
+    {
+        "img_path": "RpDennisPosed004_UniformNoise_4.mp4",
+        "gt_score": 3.4375,
+        "object_id": "RpDennisPosed004_UniformNoise_4",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ]
+    },
+    {
+        "img_path": "RpDennisPosed004_UniformNoise_5.mp4",
+        "gt_score": 3.34375,
+        "object_id": "RpDennisPosed004_UniformNoise_5",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ]
+    },
+    {
+        "img_path": "RpDennisPosed004_UniformNoise_7.mp4",
+        "gt_score": 2.964285714,
+        "object_id": "RpDennisPosed004_UniformNoise_7",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ]
+    },
+    {
+        "img_path": "soldier_DownSample_3.mp4",
+        "gt_score": 4.178571429,
+        "object_id": "soldier_DownSample_3",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is excellent"
+            }
+        ]
+    },
+    {
+        "img_path": "soldier_DownSample_4.mp4",
+        "gt_score": 3.928571429,
+        "object_id": "soldier_DownSample_4",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ]
+    },
+    {
+        "img_path": "soldier_DownSample_5.mp4",
+        "gt_score": 3.642857143,
+        "object_id": "soldier_DownSample_5",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ]
+    },
+    {
+        "img_path": "soldier_DownSample_6.mp4",
+        "gt_score": 3.0625,
+        "object_id": "soldier_DownSample_6",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ]
+    },
+    {
+        "img_path": "soldier_DownSample_7.mp4",
+        "gt_score": 2.392857143,
+        "object_id": "soldier_DownSample_7",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ]
+    },
+    {
+        "img_path": "soldier_LumaNoise_1.mp4",
+        "gt_score": 4.066666667,
+        "object_id": "soldier_LumaNoise_1",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is excellent"
+            }
+        ]
+    },
+    {
+        "img_path": "soldier_LumaNoise_3.mp4",
+        "gt_score": 3.21875,
+        "object_id": "soldier_LumaNoise_3",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ]
+    },
+    {
+        "img_path": "soldier_LumaNoise_4.mp4",
+        "gt_score": 3.09375,
+        "object_id": "soldier_LumaNoise_4",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ]
+    },
+    {
+        "img_path": "soldier_LumaNoise_5.mp4",
+        "gt_score": 3.1875,
+        "object_id": "soldier_LumaNoise_5",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ]
+    },
+    {
+        "img_path": "soldier_LumaNoise_7.mp4",
+        "gt_score": 2.357142857,
+        "object_id": "soldier_LumaNoise_7",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ]
+    },
+    {
+        "img_path": "SpiderMonkey_C2AI-lossy-geom-lossy-attrs_3.mp4",
+        "gt_score": 4.964285714,
+        "object_id": "SpiderMonkey_C2AI-lossy-geom-lossy-attrs_3",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is excellent"
+            }
+        ]
+    },
+    {
+        "img_path": "SpiderMonkey_C2AI-lossy-geom-lossy-attrs_4.mp4",
+        "gt_score": 4.5625,
+        "object_id": "SpiderMonkey_C2AI-lossy-geom-lossy-attrs_4",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is excellent"
+            }
+        ]
+    },
+    {
+        "img_path": "SpiderMonkey_C2AI-lossy-geom-lossy-attrs_5.mp4",
+        "gt_score": 4.0,
+        "object_id": "SpiderMonkey_C2AI-lossy-geom-lossy-attrs_5",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ]
+    },
+    {
+        "img_path": "SpiderMonkey_C2AI-lossy-geom-lossy-attrs_6.mp4",
+        "gt_score": 3.464285714,
+        "object_id": "SpiderMonkey_C2AI-lossy-geom-lossy-attrs_6",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ]
+    },
+    {
+        "img_path": "SpiderMonkey_C2AI-lossy-geom-lossy-attrs_7.mp4",
+        "gt_score": 3.0,
+        "object_id": "SpiderMonkey_C2AI-lossy-geom-lossy-attrs_7",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ]
+    },
+    {
+        "img_path": "SpiderMonkey_LocalLoss_1.mp4",
+        "gt_score": 3.821428571,
+        "object_id": "SpiderMonkey_LocalLoss_1",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ]
+    },
+    {
+        "img_path": "SpiderMonkey_LocalLoss_2.mp4",
+        "gt_score": 3.607142857,
+        "object_id": "SpiderMonkey_LocalLoss_2",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ]
+    },
+    {
+        "img_path": "SpiderMonkey_LocalLoss_3.mp4",
+        "gt_score": 2.53125,
+        "object_id": "SpiderMonkey_LocalLoss_3",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ]
+    },
+    {
+        "img_path": "SpiderMonkey_LocalLoss_4.mp4",
+        "gt_score": 2.3,
+        "object_id": "SpiderMonkey_LocalLoss_4",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ]
+    },
+    {
+        "img_path": "SpiderMonkey_LocalLoss_5.mp4",
+        "gt_score": 2.214285714,
+        "object_id": "SpiderMonkey_LocalLoss_5",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ]
+    },
+    {
+        "img_path": "Table_SaturationDistortion_1.mp4",
+        "gt_score": 4.321428571,
+        "object_id": "Table_SaturationDistortion_1",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is excellent"
+            }
+        ]
+    },
+    {
+        "img_path": "Table_SaturationDistortion_2.mp4",
+        "gt_score": 3.285714286,
+        "object_id": "Table_SaturationDistortion_2",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ]
+    },
+    {
+        "img_path": "Table_SaturationDistortion_3.mp4",
+        "gt_score": 3.133333333,
+        "object_id": "Table_SaturationDistortion_3",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ]
+    },
+    {
+        "img_path": "Table_SaturationDistortion_4.mp4",
+        "gt_score": 2.607142857,
+        "object_id": "Table_SaturationDistortion_4",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ]
+    },
+    {
+        "img_path": "Table_SaturationDistortion_5.mp4",
+        "gt_score": 2.464285714,
+        "object_id": "Table_SaturationDistortion_5",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ]
+    }
+]

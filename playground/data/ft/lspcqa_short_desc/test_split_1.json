@@ -1,0 +1,2977 @@
+[
+    {
+        "filename": "BB8New_C2AI-lossy-geom-lossy-attrs_3.ply",
+        "mos": 4.892857143,
+        "object_id": "BB8New_C2AI-lossy-geom-lossy-attrs_3",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is excellent"
+            }
+        ],
+        "image": "BB8New_C2AI-lossy-geom-lossy-attrs_3.mp4",
+        "gt_score": 4.892857143
+    },
+    {
+        "filename": "BB8New_C2AI-lossy-geom-lossy-attrs_4.ply",
+        "mos": 4.464285714,
+        "object_id": "BB8New_C2AI-lossy-geom-lossy-attrs_4",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is excellent"
+            }
+        ],
+        "image": "BB8New_C2AI-lossy-geom-lossy-attrs_4.mp4",
+        "gt_score": 4.464285714
+    },
+    {
+        "filename": "BB8New_C2AI-lossy-geom-lossy-attrs_5.ply",
+        "mos": 3.785714286,
+        "object_id": "BB8New_C2AI-lossy-geom-lossy-attrs_5",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ],
+        "image": "BB8New_C2AI-lossy-geom-lossy-attrs_5.mp4",
+        "gt_score": 3.785714286
+    },
+    {
+        "filename": "BB8New_C2AI-lossy-geom-lossy-attrs_6.ply",
+        "mos": 3.607142857,
+        "object_id": "BB8New_C2AI-lossy-geom-lossy-attrs_6",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ],
+        "image": "BB8New_C2AI-lossy-geom-lossy-attrs_6.mp4",
+        "gt_score": 3.607142857
+    },
+    {
+        "filename": "BB8New_C2AI-lossy-geom-lossy-attrs_7.ply",
+        "mos": 3.357142857,
+        "object_id": "BB8New_C2AI-lossy-geom-lossy-attrs_7",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ],
+        "image": "BB8New_C2AI-lossy-geom-lossy-attrs_7.mp4",
+        "gt_score": 3.357142857
+    },
+    {
+        "filename": "BB8New_LocalOffset_1.ply",
+        "mos": 3.53125,
+        "object_id": "BB8New_LocalOffset_1",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ],
+        "image": "BB8New_LocalOffset_1.mp4",
+        "gt_score": 3.53125
+    },
+    {
+        "filename": "BB8New_LocalOffset_2.ply",
+        "mos": 2.892857143,
+        "object_id": "BB8New_LocalOffset_2",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ],
+        "image": "BB8New_LocalOffset_2.mp4",
+        "gt_score": 2.892857143
+    },
+    {
+        "filename": "BB8New_LocalOffset_3.ply",
+        "mos": 2.375,
+        "object_id": "BB8New_LocalOffset_3",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ],
+        "image": "BB8New_LocalOffset_3.mp4",
+        "gt_score": 2.375
+    },
+    {
+        "filename": "BB8New_LocalOffset_4.ply",
+        "mos": 2.321428571,
+        "object_id": "BB8New_LocalOffset_4",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ],
+        "image": "BB8New_LocalOffset_4.mp4",
+        "gt_score": 2.321428571
+    },
+    {
+        "filename": "BB8New_LocalOffset_5.ply",
+        "mos": 1.535714286,
+        "object_id": "BB8New_LocalOffset_5",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is poor"
+            }
+        ],
+        "image": "BB8New_LocalOffset_5.mp4",
+        "gt_score": 1.535714286
+    },
+    {
+        "filename": "BB8New_LocalRotation_1.ply",
+        "mos": 3.033333333,
+        "object_id": "BB8New_LocalRotation_1",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ],
+        "image": "BB8New_LocalRotation_1.mp4",
+        "gt_score": 3.033333333
+    },
+    {
+        "filename": "BB8New_LocalRotation_2.ply",
+        "mos": 3.166666667,
+        "object_id": "BB8New_LocalRotation_2",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ],
+        "image": "BB8New_LocalRotation_2.mp4",
+        "gt_score": 3.166666667
+    },
+    {
+        "filename": "BB8New_LocalRotation_3.ply",
+        "mos": 2.464285714,
+        "object_id": "BB8New_LocalRotation_3",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ],
+        "image": "BB8New_LocalRotation_3.mp4",
+        "gt_score": 2.464285714
+    },
+    {
+        "filename": "BB8New_LocalRotation_4.ply",
+        "mos": 1.8,
+        "object_id": "BB8New_LocalRotation_4",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is poor"
+            }
+        ],
+        "image": "BB8New_LocalRotation_4.mp4",
+        "gt_score": 1.8
+    },
+    {
+        "filename": "BB8New_LocalRotation_5.ply",
+        "mos": 1.766666667,
+        "object_id": "BB8New_LocalRotation_5",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is poor"
+            }
+        ],
+        "image": "BB8New_LocalRotation_5.mp4",
+        "gt_score": 1.766666667
+    },
+    {
+        "filename": "BB8New_SaltpepperNoise_1.ply",
+        "mos": 3.428571429,
+        "object_id": "BB8New_SaltpepperNoise_1",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ],
+        "image": "BB8New_SaltpepperNoise_1.mp4",
+        "gt_score": 3.428571429
+    },
+    {
+        "filename": "BB8New_SaltpepperNoise_3.ply",
+        "mos": 3.178571429,
+        "object_id": "BB8New_SaltpepperNoise_3",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ],
+        "image": "BB8New_SaltpepperNoise_3.mp4",
+        "gt_score": 3.178571429
+    },
+    {
+        "filename": "BB8New_SaltpepperNoise_4.ply",
+        "mos": 2.785714286,
+        "object_id": "BB8New_SaltpepperNoise_4",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ],
+        "image": "BB8New_SaltpepperNoise_4.mp4",
+        "gt_score": 2.785714286
+    },
+    {
+        "filename": "BB8New_SaltpepperNoise_5.ply",
+        "mos": 2.964285714,
+        "object_id": "BB8New_SaltpepperNoise_5",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ],
+        "image": "BB8New_SaltpepperNoise_5.mp4",
+        "gt_score": 2.964285714
+    },
+    {
+        "filename": "BB8New_SaltpepperNoise_7.ply",
+        "mos": 2.8,
+        "object_id": "BB8New_SaltpepperNoise_7",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ],
+        "image": "BB8New_SaltpepperNoise_7.mp4",
+        "gt_score": 2.8
+    },
+    {
+        "filename": "Beagle_losslessG-limitlossyA_3.ply",
+        "mos": 4.9,
+        "object_id": "Beagle_losslessG-limitlossyA_3",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is excellent"
+            }
+        ],
+        "image": "Beagle_losslessG-limitlossyA_3.mp4",
+        "gt_score": 4.9
+    },
+    {
+        "filename": "Beagle_losslessG-limitlossyA_4.ply",
+        "mos": 4.678571429,
+        "object_id": "Beagle_losslessG-limitlossyA_4",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is excellent"
+            }
+        ],
+        "image": "Beagle_losslessG-limitlossyA_4.mp4",
+        "gt_score": 4.678571429
+    },
+    {
+        "filename": "Beagle_losslessG-limitlossyA_5.ply",
+        "mos": 4.3,
+        "object_id": "Beagle_losslessG-limitlossyA_5",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is excellent"
+            }
+        ],
+        "image": "Beagle_losslessG-limitlossyA_5.mp4",
+        "gt_score": 4.3
+    },
+    {
+        "filename": "Beagle_losslessG-limitlossyA_6.ply",
+        "mos": 3.733333333,
+        "object_id": "Beagle_losslessG-limitlossyA_6",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ],
+        "image": "Beagle_losslessG-limitlossyA_6.mp4",
+        "gt_score": 3.733333333
+    },
+    {
+        "filename": "Beagle_losslessG-limitlossyA_7.ply",
+        "mos": 3.285714286,
+        "object_id": "Beagle_losslessG-limitlossyA_7",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ],
+        "image": "Beagle_losslessG-limitlossyA_7.mp4",
+        "gt_score": 3.285714286
+    },
+    {
+        "filename": "Beagle_LumaNoise_1.ply",
+        "mos": 4.857142857,
+        "object_id": "Beagle_LumaNoise_1",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is excellent"
+            }
+        ],
+        "image": "Beagle_LumaNoise_1.mp4",
+        "gt_score": 4.857142857
+    },
+    {
+        "filename": "Beagle_LumaNoise_3.ply",
+        "mos": 3.035714286,
+        "object_id": "Beagle_LumaNoise_3",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ],
+        "image": "Beagle_LumaNoise_3.mp4",
+        "gt_score": 3.035714286
+    },
+    {
+        "filename": "Beagle_LumaNoise_4.ply",
+        "mos": 3.46875,
+        "object_id": "Beagle_LumaNoise_4",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ],
+        "image": "Beagle_LumaNoise_4.mp4",
+        "gt_score": 3.46875
+    },
+    {
+        "filename": "Beagle_LumaNoise_5.ply",
+        "mos": 2.9,
+        "object_id": "Beagle_LumaNoise_5",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ],
+        "image": "Beagle_LumaNoise_5.mp4",
+        "gt_score": 2.9
+    },
+    {
+        "filename": "Beagle_LumaNoise_7.ply",
+        "mos": 3.0,
+        "object_id": "Beagle_LumaNoise_7",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ],
+        "image": "Beagle_LumaNoise_7.mp4",
+        "gt_score": 3.0
+    },
+    {
+        "filename": "Chicken_ColorQuantizationDither_3.ply",
+        "mos": 4.0,
+        "object_id": "Chicken_ColorQuantizationDither_3",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ],
+        "image": "Chicken_ColorQuantizationDither_3.mp4",
+        "gt_score": 4.0
+    },
+    {
+        "filename": "Chicken_ColorQuantizationDither_4.ply",
+        "mos": 3.178571429,
+        "object_id": "Chicken_ColorQuantizationDither_4",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ],
+        "image": "Chicken_ColorQuantizationDither_4.mp4",
+        "gt_score": 3.178571429
+    },
+    {
+        "filename": "Chicken_ColorQuantizationDither_5.ply",
+        "mos": 3.035714286,
+        "object_id": "Chicken_ColorQuantizationDither_5",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ],
+        "image": "Chicken_ColorQuantizationDither_5.mp4",
+        "gt_score": 3.035714286
+    },
+    {
+        "filename": "Chicken_ColorQuantizationDither_6.ply",
+        "mos": 2.464285714,
+        "object_id": "Chicken_ColorQuantizationDither_6",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ],
+        "image": "Chicken_ColorQuantizationDither_6.mp4",
+        "gt_score": 2.464285714
+    },
+    {
+        "filename": "Chicken_ColorQuantizationDither_7.ply",
+        "mos": 2.035714286,
+        "object_id": "Chicken_ColorQuantizationDither_7",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ],
+        "image": "Chicken_ColorQuantizationDither_7.mp4",
+        "gt_score": 2.035714286
+    },
+    {
+        "filename": "Chicken_QuantizationNoise_1.ply",
+        "mos": 3.964285714,
+        "object_id": "Chicken_QuantizationNoise_1",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ],
+        "image": "Chicken_QuantizationNoise_1.mp4",
+        "gt_score": 3.964285714
+    },
+    {
+        "filename": "Chicken_QuantizationNoise_3.ply",
+        "mos": 3.857142857,
+        "object_id": "Chicken_QuantizationNoise_3",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ],
+        "image": "Chicken_QuantizationNoise_3.mp4",
+        "gt_score": 3.857142857
+    },
+    {
+        "filename": "Chicken_QuantizationNoise_4.ply",
+        "mos": 3.6,
+        "object_id": "Chicken_QuantizationNoise_4",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ],
+        "image": "Chicken_QuantizationNoise_4.mp4",
+        "gt_score": 3.6
+    },
+    {
+        "filename": "Chicken_QuantizationNoise_5.ply",
+        "mos": 3.633333333,
+        "object_id": "Chicken_QuantizationNoise_5",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ],
+        "image": "Chicken_QuantizationNoise_5.mp4",
+        "gt_score": 3.633333333
+    },
+    {
+        "filename": "Chicken_QuantizationNoise_7.ply",
+        "mos": 3.166666667,
+        "object_id": "Chicken_QuantizationNoise_7",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ],
+        "image": "Chicken_QuantizationNoise_7.mp4",
+        "gt_score": 3.166666667
+    },
+    {
+        "filename": "crabV2_ColorQuantizationDither_3.ply",
+        "mos": 4.25,
+        "object_id": "crabV2_ColorQuantizationDither_3",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is excellent"
+            }
+        ],
+        "image": "crabV2_ColorQuantizationDither_3.mp4",
+        "gt_score": 4.25
+    },
+    {
+        "filename": "crabV2_ColorQuantizationDither_4.ply",
+        "mos": 3.321428571,
+        "object_id": "crabV2_ColorQuantizationDither_4",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ],
+        "image": "crabV2_ColorQuantizationDither_4.mp4",
+        "gt_score": 3.321428571
+    },
+    {
+        "filename": "crabV2_ColorQuantizationDither_5.ply",
+        "mos": 2.966666667,
+        "object_id": "crabV2_ColorQuantizationDither_5",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ],
+        "image": "crabV2_ColorQuantizationDither_5.mp4",
+        "gt_score": 2.966666667
+    },
+    {
+        "filename": "crabV2_ColorQuantizationDither_6.ply",
+        "mos": 2.285714286,
+        "object_id": "crabV2_ColorQuantizationDither_6",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ],
+        "image": "crabV2_ColorQuantizationDither_6.mp4",
+        "gt_score": 2.285714286
+    },
+    {
+        "filename": "crabV2_ColorQuantizationDither_7.ply",
+        "mos": 2.178571429,
+        "object_id": "crabV2_ColorQuantizationDither_7",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ],
+        "image": "crabV2_ColorQuantizationDither_7.mp4",
+        "gt_score": 2.178571429
+    },
+    {
+        "filename": "Dragon_LocalRotation_1.ply",
+        "mos": 3.25,
+        "object_id": "Dragon_LocalRotation_1",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ],
+        "image": "Dragon_LocalRotation_1.mp4",
+        "gt_score": 3.25
+    },
+    {
+        "filename": "Dragon_LocalRotation_2.ply",
+        "mos": 3.0625,
+        "object_id": "Dragon_LocalRotation_2",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ],
+        "image": "Dragon_LocalRotation_2.mp4",
+        "gt_score": 3.0625
+    },
+    {
+        "filename": "Dragon_LocalRotation_3.ply",
+        "mos": 1.214285714,
+        "object_id": "Dragon_LocalRotation_3",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is poor"
+            }
+        ],
+        "image": "Dragon_LocalRotation_3.mp4",
+        "gt_score": 1.214285714
+    },
+    {
+        "filename": "Dragon_LocalRotation_4.ply",
+        "mos": 1.133333333,
+        "object_id": "Dragon_LocalRotation_4",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is poor"
+            }
+        ],
+        "image": "Dragon_LocalRotation_4.mp4",
+        "gt_score": 1.133333333
+    },
+    {
+        "filename": "Dragon_LocalRotation_5.ply",
+        "mos": 1.0,
+        "object_id": "Dragon_LocalRotation_5",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is bad"
+            }
+        ],
+        "image": "Dragon_LocalRotation_5.mp4",
+        "gt_score": 1.0
+    },
+    {
+        "filename": "DuckV1_CorrelatedGaussianNoise_1.ply",
+        "mos": 4.714285714,
+        "object_id": "DuckV1_CorrelatedGaussianNoise_1",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is excellent"
+            }
+        ],
+        "image": "DuckV1_CorrelatedGaussianNoise_1.mp4",
+        "gt_score": 4.714285714
+    },
+    {
+        "filename": "DuckV1_CorrelatedGaussianNoise_2.ply",
+        "mos": 4.142857143,
+        "object_id": "DuckV1_CorrelatedGaussianNoise_2",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is excellent"
+            }
+        ],
+        "image": "DuckV1_CorrelatedGaussianNoise_2.mp4",
+        "gt_score": 4.142857143
+    },
+    {
+        "filename": "DuckV1_CorrelatedGaussianNoise_3.ply",
+        "mos": 3.75,
+        "object_id": "DuckV1_CorrelatedGaussianNoise_3",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ],
+        "image": "DuckV1_CorrelatedGaussianNoise_3.mp4",
+        "gt_score": 3.75
+    },
+    {
+        "filename": "DuckV1_CorrelatedGaussianNoise_4.ply",
+        "mos": 3.392857143,
+        "object_id": "DuckV1_CorrelatedGaussianNoise_4",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ],
+        "image": "DuckV1_CorrelatedGaussianNoise_4.mp4",
+        "gt_score": 3.392857143
+    },
+    {
+        "filename": "DuckV1_CorrelatedGaussianNoise_5.ply",
+        "mos": 3.166666667,
+        "object_id": "DuckV1_CorrelatedGaussianNoise_5",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ],
+        "image": "DuckV1_CorrelatedGaussianNoise_5.mp4",
+        "gt_score": 3.166666667
+    },
+    {
+        "filename": "DuckV1_reconstruction_3.ply",
+        "mos": 3.821428571,
+        "object_id": "DuckV1_reconstruction_3",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ],
+        "image": "DuckV1_reconstruction_3.mp4",
+        "gt_score": 3.821428571
+    },
+    {
+        "filename": "DuckV1_reconstruction_4.ply",
+        "mos": 4.0,
+        "object_id": "DuckV1_reconstruction_4",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ],
+        "image": "DuckV1_reconstruction_4.mp4",
+        "gt_score": 4.0
+    },
+    {
+        "filename": "DuckV1_reconstruction_5.ply",
+        "mos": 3.733333333,
+        "object_id": "DuckV1_reconstruction_5",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ],
+        "image": "DuckV1_reconstruction_5.mp4",
+        "gt_score": 3.733333333
+    },
+    {
+        "filename": "DuckV1_reconstruction_6.ply",
+        "mos": 3.6875,
+        "object_id": "DuckV1_reconstruction_6",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ],
+        "image": "DuckV1_reconstruction_6.mp4",
+        "gt_score": 3.6875
+    },
+    {
+        "filename": "DuckV1_reconstruction_7.ply",
+        "mos": 2.785714286,
+        "object_id": "DuckV1_reconstruction_7",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ],
+        "image": "DuckV1_reconstruction_7.mp4",
+        "gt_score": 2.785714286
+    },
+    {
+        "filename": "Handcream_C2AI-lossy-geom-lossy-attrs_3.ply",
+        "mos": 4.357142857,
+        "object_id": "Handcream_C2AI-lossy-geom-lossy-attrs_3",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is excellent"
+            }
+        ],
+        "image": "Handcream_C2AI-lossy-geom-lossy-attrs_3.mp4",
+        "gt_score": 4.357142857
+    },
+    {
+        "filename": "Handcream_C2AI-lossy-geom-lossy-attrs_4.ply",
+        "mos": 4.25,
+        "object_id": "Handcream_C2AI-lossy-geom-lossy-attrs_4",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is excellent"
+            }
+        ],
+        "image": "Handcream_C2AI-lossy-geom-lossy-attrs_4.mp4",
+        "gt_score": 4.25
+    },
+    {
+        "filename": "Handcream_C2AI-lossy-geom-lossy-attrs_5.ply",
+        "mos": 3.928571429,
+        "object_id": "Handcream_C2AI-lossy-geom-lossy-attrs_5",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ],
+        "image": "Handcream_C2AI-lossy-geom-lossy-attrs_5.mp4",
+        "gt_score": 3.928571429
+    },
+    {
+        "filename": "Handcream_C2AI-lossy-geom-lossy-attrs_6.ply",
+        "mos": 3.433333333,
+        "object_id": "Handcream_C2AI-lossy-geom-lossy-attrs_6",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ],
+        "image": "Handcream_C2AI-lossy-geom-lossy-attrs_6.mp4",
+        "gt_score": 3.433333333
+    },
+    {
+        "filename": "Handcream_C2AI-lossy-geom-lossy-attrs_7.ply",
+        "mos": 2.607142857,
+        "object_id": "Handcream_C2AI-lossy-geom-lossy-attrs_7",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ],
+        "image": "Handcream_C2AI-lossy-geom-lossy-attrs_7.mp4",
+        "gt_score": 2.607142857
+    },
+    {
+        "filename": "Handcream_ColorNoise_3.ply",
+        "mos": 4.21875,
+        "object_id": "Handcream_ColorNoise_3",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is excellent"
+            }
+        ],
+        "image": "Handcream_ColorNoise_3.mp4",
+        "gt_score": 4.21875
+    },
+    {
+        "filename": "Handcream_ColorNoise_4.ply",
+        "mos": 3.392857143,
+        "object_id": "Handcream_ColorNoise_4",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ],
+        "image": "Handcream_ColorNoise_4.mp4",
+        "gt_score": 3.392857143
+    },
+    {
+        "filename": "Handcream_ColorNoise_5.ply",
+        "mos": 3.533333333,
+        "object_id": "Handcream_ColorNoise_5",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ],
+        "image": "Handcream_ColorNoise_5.mp4",
+        "gt_score": 3.533333333
+    },
+    {
+        "filename": "Handcream_ColorNoise_6.ply",
+        "mos": 3.3,
+        "object_id": "Handcream_ColorNoise_6",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ],
+        "image": "Handcream_ColorNoise_6.mp4",
+        "gt_score": 3.3
+    },
+    {
+        "filename": "Handcream_ColorNoise_7.ply",
+        "mos": 3.25,
+        "object_id": "Handcream_ColorNoise_7",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ],
+        "image": "Handcream_ColorNoise_7.mp4",
+        "gt_score": 3.25
+    },
+    {
+        "filename": "Handcream_lossless-geom-lossy-attrs_3.ply",
+        "mos": 4.607142857,
+        "object_id": "Handcream_lossless-geom-lossy-attrs_3",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is excellent"
+            }
+        ],
+        "image": "Handcream_lossless-geom-lossy-attrs_3.mp4",
+        "gt_score": 4.607142857
+    },
+    {
+        "filename": "Handcream_lossless-geom-lossy-attrs_4.ply",
+        "mos": 4.5,
+        "object_id": "Handcream_lossless-geom-lossy-attrs_4",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is excellent"
+            }
+        ],
+        "image": "Handcream_lossless-geom-lossy-attrs_4.mp4",
+        "gt_score": 4.5
+    },
+    {
+        "filename": "Handcream_lossless-geom-lossy-attrs_5.ply",
+        "mos": 4.066666667,
+        "object_id": "Handcream_lossless-geom-lossy-attrs_5",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is excellent"
+            }
+        ],
+        "image": "Handcream_lossless-geom-lossy-attrs_5.mp4",
+        "gt_score": 4.066666667
+    },
+    {
+        "filename": "Handcream_lossless-geom-lossy-attrs_6.ply",
+        "mos": 3.5,
+        "object_id": "Handcream_lossless-geom-lossy-attrs_6",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ],
+        "image": "Handcream_lossless-geom-lossy-attrs_6.mp4",
+        "gt_score": 3.5
+    },
+    {
+        "filename": "Handcream_lossless-geom-lossy-attrs_7.ply",
+        "mos": 3.178571429,
+        "object_id": "Handcream_lossless-geom-lossy-attrs_7",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ],
+        "image": "Handcream_lossless-geom-lossy-attrs_7.mp4",
+        "gt_score": 3.178571429
+    },
+    {
+        "filename": "Handcream_LumaNoise_1.ply",
+        "mos": 4.3125,
+        "object_id": "Handcream_LumaNoise_1",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is excellent"
+            }
+        ],
+        "image": "Handcream_LumaNoise_1.mp4",
+        "gt_score": 4.3125
+    },
+    {
+        "filename": "Handcream_LumaNoise_3.ply",
+        "mos": 3.642857143,
+        "object_id": "Handcream_LumaNoise_3",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ],
+        "image": "Handcream_LumaNoise_3.mp4",
+        "gt_score": 3.642857143
+    },
+    {
+        "filename": "Handcream_LumaNoise_4.ply",
+        "mos": 3.033333333,
+        "object_id": "Handcream_LumaNoise_4",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ],
+        "image": "Handcream_LumaNoise_4.mp4",
+        "gt_score": 3.033333333
+    },
+    {
+        "filename": "Handcream_LumaNoise_5.ply",
+        "mos": 2.766666667,
+        "object_id": "Handcream_LumaNoise_5",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ],
+        "image": "Handcream_LumaNoise_5.mp4",
+        "gt_score": 2.766666667
+    },
+    {
+        "filename": "Handcream_LumaNoise_7.ply",
+        "mos": 2.035714286,
+        "object_id": "Handcream_LumaNoise_7",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ],
+        "image": "Handcream_LumaNoise_7.mp4",
+        "gt_score": 2.035714286
+    },
+    {
+        "filename": "HouseWithoutRoof_GaussianShifting_1.ply",
+        "mos": 4.033333333,
+        "object_id": "HouseWithoutRoof_GaussianShifting_1",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is excellent"
+            }
+        ],
+        "image": "HouseWithoutRoof_GaussianShifting_1.mp4",
+        "gt_score": 4.033333333
+    },
+    {
+        "filename": "HouseWithoutRoof_GaussianShifting_2.ply",
+        "mos": 3.233333333,
+        "object_id": "HouseWithoutRoof_GaussianShifting_2",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ],
+        "image": "HouseWithoutRoof_GaussianShifting_2.mp4",
+        "gt_score": 3.233333333
+    },
+    {
+        "filename": "HouseWithoutRoof_GaussianShifting_3.ply",
+        "mos": 2.766666667,
+        "object_id": "HouseWithoutRoof_GaussianShifting_3",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ],
+        "image": "HouseWithoutRoof_GaussianShifting_3.mp4",
+        "gt_score": 2.766666667
+    },
+    {
+        "filename": "HouseWithoutRoof_GaussianShifting_4.ply",
+        "mos": 2.642857143,
+        "object_id": "HouseWithoutRoof_GaussianShifting_4",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ],
+        "image": "HouseWithoutRoof_GaussianShifting_4.mp4",
+        "gt_score": 2.642857143
+    },
+    {
+        "filename": "HouseWithoutRoof_GaussianShifting_5.ply",
+        "mos": 2.266666667,
+        "object_id": "HouseWithoutRoof_GaussianShifting_5",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ],
+        "image": "HouseWithoutRoof_GaussianShifting_5.mp4",
+        "gt_score": 2.266666667
+    },
+    {
+        "filename": "HouseWithoutRoof_LocalLoss_1.ply",
+        "mos": 4.0625,
+        "object_id": "HouseWithoutRoof_LocalLoss_1",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is excellent"
+            }
+        ],
+        "image": "HouseWithoutRoof_LocalLoss_1.mp4",
+        "gt_score": 4.0625
+    },
+    {
+        "filename": "HouseWithoutRoof_LocalLoss_2.ply",
+        "mos": 3.633333333,
+        "object_id": "HouseWithoutRoof_LocalLoss_2",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ],
+        "image": "HouseWithoutRoof_LocalLoss_2.mp4",
+        "gt_score": 3.633333333
+    },
+    {
+        "filename": "HouseWithoutRoof_LocalLoss_3.ply",
+        "mos": 2.321428571,
+        "object_id": "HouseWithoutRoof_LocalLoss_3",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ],
+        "image": "HouseWithoutRoof_LocalLoss_3.mp4",
+        "gt_score": 2.321428571
+    },
+    {
+        "filename": "HouseWithoutRoof_LocalLoss_4.ply",
+        "mos": 2.3,
+        "object_id": "HouseWithoutRoof_LocalLoss_4",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ],
+        "image": "HouseWithoutRoof_LocalLoss_4.mp4",
+        "gt_score": 2.3
+    },
+    {
+        "filename": "HouseWithoutRoof_LocalLoss_5.ply",
+        "mos": 2.1,
+        "object_id": "HouseWithoutRoof_LocalLoss_5",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ],
+        "image": "HouseWithoutRoof_LocalLoss_5.mp4",
+        "gt_score": 2.1
+    },
+    {
+        "filename": "HouseWithoutRoof_losslessG-lossyA_3.ply",
+        "mos": 4.607142857,
+        "object_id": "HouseWithoutRoof_losslessG-lossyA_3",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is excellent"
+            }
+        ],
+        "image": "HouseWithoutRoof_losslessG-lossyA_3.mp4",
+        "gt_score": 4.607142857
+    },
+    {
+        "filename": "HouseWithoutRoof_losslessG-lossyA_4.ply",
+        "mos": 4.4,
+        "object_id": "HouseWithoutRoof_losslessG-lossyA_4",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is excellent"
+            }
+        ],
+        "image": "HouseWithoutRoof_losslessG-lossyA_4.mp4",
+        "gt_score": 4.4
+    },
+    {
+        "filename": "HouseWithoutRoof_losslessG-lossyA_5.ply",
+        "mos": 3.966666667,
+        "object_id": "HouseWithoutRoof_losslessG-lossyA_5",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ],
+        "image": "HouseWithoutRoof_losslessG-lossyA_5.mp4",
+        "gt_score": 3.966666667
+    },
+    {
+        "filename": "HouseWithoutRoof_losslessG-lossyA_6.ply",
+        "mos": 3.033333333,
+        "object_id": "HouseWithoutRoof_losslessG-lossyA_6",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ],
+        "image": "HouseWithoutRoof_losslessG-lossyA_6.mp4",
+        "gt_score": 3.033333333
+    },
+    {
+        "filename": "HouseWithoutRoof_losslessG-lossyA_7.ply",
+        "mos": 2.785714286,
+        "object_id": "HouseWithoutRoof_losslessG-lossyA_7",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ],
+        "image": "HouseWithoutRoof_losslessG-lossyA_7.mp4",
+        "gt_score": 2.785714286
+    },
+    {
+        "filename": "HouseWithoutRoof_QuantizationNoise_1.ply",
+        "mos": 4.1875,
+        "object_id": "HouseWithoutRoof_QuantizationNoise_1",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is excellent"
+            }
+        ],
+        "image": "HouseWithoutRoof_QuantizationNoise_1.mp4",
+        "gt_score": 4.1875
+    },
+    {
+        "filename": "HouseWithoutRoof_QuantizationNoise_3.ply",
+        "mos": 3.785714286,
+        "object_id": "HouseWithoutRoof_QuantizationNoise_3",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ],
+        "image": "HouseWithoutRoof_QuantizationNoise_3.mp4",
+        "gt_score": 3.785714286
+    },
+    {
+        "filename": "HouseWithoutRoof_QuantizationNoise_4.ply",
+        "mos": 3.357142857,
+        "object_id": "HouseWithoutRoof_QuantizationNoise_4",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ],
+        "image": "HouseWithoutRoof_QuantizationNoise_4.mp4",
+        "gt_score": 3.357142857
+    },
+    {
+        "filename": "HouseWithoutRoof_QuantizationNoise_5.ply",
+        "mos": 3.642857143,
+        "object_id": "HouseWithoutRoof_QuantizationNoise_5",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ],
+        "image": "HouseWithoutRoof_QuantizationNoise_5.mp4",
+        "gt_score": 3.642857143
+    },
+    {
+        "filename": "HouseWithoutRoof_QuantizationNoise_7.ply",
+        "mos": 2.966666667,
+        "object_id": "HouseWithoutRoof_QuantizationNoise_7",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ],
+        "image": "HouseWithoutRoof_QuantizationNoise_7.mp4",
+        "gt_score": 2.966666667
+    },
+    {
+        "filename": "loot_HighFrequencyNoise_3.ply",
+        "mos": 3.857142857,
+        "object_id": "loot_HighFrequencyNoise_3",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ],
+        "image": "loot_HighFrequencyNoise_3.mp4",
+        "gt_score": 3.857142857
+    },
+    {
+        "filename": "loot_HighFrequencyNoise_4.ply",
+        "mos": 3.214285714,
+        "object_id": "loot_HighFrequencyNoise_4",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ],
+        "image": "loot_HighFrequencyNoise_4.mp4",
+        "gt_score": 3.214285714
+    },
+    {
+        "filename": "loot_HighFrequencyNoise_5.ply",
+        "mos": 3.428571429,
+        "object_id": "loot_HighFrequencyNoise_5",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ],
+        "image": "loot_HighFrequencyNoise_5.mp4",
+        "gt_score": 3.428571429
+    },
+    {
+        "filename": "loot_HighFrequencyNoise_6.ply",
+        "mos": 2.866666667,
+        "object_id": "loot_HighFrequencyNoise_6",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ],
+        "image": "loot_HighFrequencyNoise_6.mp4",
+        "gt_score": 2.866666667
+    },
+    {
+        "filename": "loot_HighFrequencyNoise_7.ply",
+        "mos": 2.857142857,
+        "object_id": "loot_HighFrequencyNoise_7",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ],
+        "image": "loot_HighFrequencyNoise_7.mp4",
+        "gt_score": 2.857142857
+    },
+    {
+        "filename": "loot_SaltpepperNoise_1.ply",
+        "mos": 3.214285714,
+        "object_id": "loot_SaltpepperNoise_1",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ],
+        "image": "loot_SaltpepperNoise_1.mp4",
+        "gt_score": 3.214285714
+    },
+    {
+        "filename": "loot_SaltpepperNoise_3.ply",
+        "mos": 3.392857143,
+        "object_id": "loot_SaltpepperNoise_3",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ],
+        "image": "loot_SaltpepperNoise_3.mp4",
+        "gt_score": 3.392857143
+    },
+    {
+        "filename": "loot_SaltpepperNoise_4.ply",
+        "mos": 2.5625,
+        "object_id": "loot_SaltpepperNoise_4",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ],
+        "image": "loot_SaltpepperNoise_4.mp4",
+        "gt_score": 2.5625
+    },
+    {
+        "filename": "loot_SaltpepperNoise_5.ply",
+        "mos": 2.464285714,
+        "object_id": "loot_SaltpepperNoise_5",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ],
+        "image": "loot_SaltpepperNoise_5.mp4",
+        "gt_score": 2.464285714
+    },
+    {
+        "filename": "loot_SaltpepperNoise_7.ply",
+        "mos": 2.107142857,
+        "object_id": "loot_SaltpepperNoise_7",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ],
+        "image": "loot_SaltpepperNoise_7.mp4",
+        "gt_score": 2.107142857
+    },
+    {
+        "filename": "lowpolycarsset1_lossless-geom-nearlossless-attrs_3.ply",
+        "mos": 4.857142857,
+        "object_id": "lowpolycarsset1_lossless-geom-nearlossless-attrs_3",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is excellent"
+            }
+        ],
+        "image": "lowpolycarsset1_lossless-geom-nearlossless-attrs_3.mp4",
+        "gt_score": 4.857142857
+    },
+    {
+        "filename": "lowpolycarsset1_lossless-geom-nearlossless-attrs_4.ply",
+        "mos": 4.5,
+        "object_id": "lowpolycarsset1_lossless-geom-nearlossless-attrs_4",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is excellent"
+            }
+        ],
+        "image": "lowpolycarsset1_lossless-geom-nearlossless-attrs_4.mp4",
+        "gt_score": 4.5
+    },
+    {
+        "filename": "lowpolycarsset1_lossless-geom-nearlossless-attrs_5.ply",
+        "mos": 4.5,
+        "object_id": "lowpolycarsset1_lossless-geom-nearlossless-attrs_5",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is excellent"
+            }
+        ],
+        "image": "lowpolycarsset1_lossless-geom-nearlossless-attrs_5.mp4",
+        "gt_score": 4.5
+    },
+    {
+        "filename": "lowpolycarsset1_lossless-geom-nearlossless-attrs_6.ply",
+        "mos": 3.392857143,
+        "object_id": "lowpolycarsset1_lossless-geom-nearlossless-attrs_6",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ],
+        "image": "lowpolycarsset1_lossless-geom-nearlossless-attrs_6.mp4",
+        "gt_score": 3.392857143
+    },
+    {
+        "filename": "lowpolycarsset1_lossless-geom-nearlossless-attrs_7.ply",
+        "mos": 2.7,
+        "object_id": "lowpolycarsset1_lossless-geom-nearlossless-attrs_7",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ],
+        "image": "lowpolycarsset1_lossless-geom-nearlossless-attrs_7.mp4",
+        "gt_score": 2.7
+    },
+    {
+        "filename": "lowpolycarsset1_UniformShifting_1.ply",
+        "mos": 3.928571429,
+        "object_id": "lowpolycarsset1_UniformShifting_1",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ],
+        "image": "lowpolycarsset1_UniformShifting_1.mp4",
+        "gt_score": 3.928571429
+    },
+    {
+        "filename": "lowpolycarsset1_UniformShifting_2.ply",
+        "mos": 3.285714286,
+        "object_id": "lowpolycarsset1_UniformShifting_2",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ],
+        "image": "lowpolycarsset1_UniformShifting_2.mp4",
+        "gt_score": 3.285714286
+    },
+    {
+        "filename": "lowpolycarsset1_UniformShifting_3.ply",
+        "mos": 2.75,
+        "object_id": "lowpolycarsset1_UniformShifting_3",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ],
+        "image": "lowpolycarsset1_UniformShifting_3.mp4",
+        "gt_score": 2.75
+    },
+    {
+        "filename": "lowpolycarsset1_UniformShifting_4.ply",
+        "mos": 2.75,
+        "object_id": "lowpolycarsset1_UniformShifting_4",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ],
+        "image": "lowpolycarsset1_UniformShifting_4.mp4",
+        "gt_score": 2.75
+    },
+    {
+        "filename": "lowpolycarsset1_UniformShifting_5.ply",
+        "mos": 2.785714286,
+        "object_id": "lowpolycarsset1_UniformShifting_5",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ],
+        "image": "lowpolycarsset1_UniformShifting_5.mp4",
+        "gt_score": 2.785714286
+    },
+    {
+        "filename": "matilda_GaussianShifting_1.ply",
+        "mos": 3.928571429,
+        "object_id": "matilda_GaussianShifting_1",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ],
+        "image": "matilda_GaussianShifting_1.mp4",
+        "gt_score": 3.928571429
+    },
+    {
+        "filename": "matilda_GaussianShifting_2.ply",
+        "mos": 2.96875,
+        "object_id": "matilda_GaussianShifting_2",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ],
+        "image": "matilda_GaussianShifting_2.mp4",
+        "gt_score": 2.96875
+    },
+    {
+        "filename": "matilda_GaussianShifting_3.ply",
+        "mos": 2.607142857,
+        "object_id": "matilda_GaussianShifting_3",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ],
+        "image": "matilda_GaussianShifting_3.mp4",
+        "gt_score": 2.607142857
+    },
+    {
+        "filename": "matilda_GaussianShifting_4.ply",
+        "mos": 2.214285714,
+        "object_id": "matilda_GaussianShifting_4",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ],
+        "image": "matilda_GaussianShifting_4.mp4",
+        "gt_score": 2.214285714
+    },
+    {
+        "filename": "matilda_GaussianShifting_5.ply",
+        "mos": 2.333333333,
+        "object_id": "matilda_GaussianShifting_5",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ],
+        "image": "matilda_GaussianShifting_5.mp4",
+        "gt_score": 2.333333333
+    },
+    {
+        "filename": "model_ColorNoise_3.ply",
+        "mos": 3.84375,
+        "object_id": "model_ColorNoise_3",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ],
+        "image": "model_ColorNoise_3.mp4",
+        "gt_score": 3.84375
+    },
+    {
+        "filename": "model_ColorNoise_4.ply",
+        "mos": 3.5,
+        "object_id": "model_ColorNoise_4",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ],
+        "image": "model_ColorNoise_4.mp4",
+        "gt_score": 3.5
+    },
+    {
+        "filename": "model_ColorNoise_5.ply",
+        "mos": 3.178571429,
+        "object_id": "model_ColorNoise_5",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ],
+        "image": "model_ColorNoise_5.mp4",
+        "gt_score": 3.178571429
+    },
+    {
+        "filename": "model_ColorNoise_6.ply",
+        "mos": 2.892857143,
+        "object_id": "model_ColorNoise_6",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ],
+        "image": "model_ColorNoise_6.mp4",
+        "gt_score": 2.892857143
+    },
+    {
+        "filename": "model_ColorNoise_7.ply",
+        "mos": 2.892857143,
+        "object_id": "model_ColorNoise_7",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ],
+        "image": "model_ColorNoise_7.mp4",
+        "gt_score": 2.892857143
+    },
+    {
+        "filename": "model_HighFrequencyNoise_3.ply",
+        "mos": 3.25,
+        "object_id": "model_HighFrequencyNoise_3",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ],
+        "image": "model_HighFrequencyNoise_3.mp4",
+        "gt_score": 3.25
+    },
+    {
+        "filename": "model_HighFrequencyNoise_4.ply",
+        "mos": 3.0,
+        "object_id": "model_HighFrequencyNoise_4",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ],
+        "image": "model_HighFrequencyNoise_4.mp4",
+        "gt_score": 3.0
+    },
+    {
+        "filename": "model_HighFrequencyNoise_5.ply",
+        "mos": 2.821428571,
+        "object_id": "model_HighFrequencyNoise_5",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ],
+        "image": "model_HighFrequencyNoise_5.mp4",
+        "gt_score": 2.821428571
+    },
+    {
+        "filename": "model_HighFrequencyNoise_6.ply",
+        "mos": 2.71875,
+        "object_id": "model_HighFrequencyNoise_6",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ],
+        "image": "model_HighFrequencyNoise_6.mp4",
+        "gt_score": 2.71875
+    },
+    {
+        "filename": "model_HighFrequencyNoise_7.ply",
+        "mos": 2.533333333,
+        "object_id": "model_HighFrequencyNoise_7",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ],
+        "image": "model_HighFrequencyNoise_7.mp4",
+        "gt_score": 2.533333333
+    },
+    {
+        "filename": "model_SaltpepperNoise_1.ply",
+        "mos": 3.6,
+        "object_id": "model_SaltpepperNoise_1",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ],
+        "image": "model_SaltpepperNoise_1.mp4",
+        "gt_score": 3.6
+    },
+    {
+        "filename": "model_SaltpepperNoise_3.ply",
+        "mos": 2.59375,
+        "object_id": "model_SaltpepperNoise_3",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ],
+        "image": "model_SaltpepperNoise_3.mp4",
+        "gt_score": 2.59375
+    },
+    {
+        "filename": "model_SaltpepperNoise_4.ply",
+        "mos": 2.428571429,
+        "object_id": "model_SaltpepperNoise_4",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ],
+        "image": "model_SaltpepperNoise_4.mp4",
+        "gt_score": 2.428571429
+    },
+    {
+        "filename": "model_SaltpepperNoise_5.ply",
+        "mos": 2.428571429,
+        "object_id": "model_SaltpepperNoise_5",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ],
+        "image": "model_SaltpepperNoise_5.mp4",
+        "gt_score": 2.428571429
+    },
+    {
+        "filename": "model_SaltpepperNoise_7.ply",
+        "mos": 1.821428571,
+        "object_id": "model_SaltpepperNoise_7",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is poor"
+            }
+        ],
+        "image": "model_SaltpepperNoise_7.mp4",
+        "gt_score": 1.821428571
+    },
+    {
+        "filename": "ParrotV1_lossless-geom-nearlossless-attrs_3.ply",
+        "mos": 4.9,
+        "object_id": "ParrotV1_lossless-geom-nearlossless-attrs_3",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is excellent"
+            }
+        ],
+        "image": "ParrotV1_lossless-geom-nearlossless-attrs_3.mp4",
+        "gt_score": 4.9
+    },
+    {
+        "filename": "ParrotV1_lossless-geom-nearlossless-attrs_4.ply",
+        "mos": 4.625,
+        "object_id": "ParrotV1_lossless-geom-nearlossless-attrs_4",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is excellent"
+            }
+        ],
+        "image": "ParrotV1_lossless-geom-nearlossless-attrs_4.mp4",
+        "gt_score": 4.625
+    },
+    {
+        "filename": "ParrotV1_lossless-geom-nearlossless-attrs_5.ply",
+        "mos": 4.5625,
+        "object_id": "ParrotV1_lossless-geom-nearlossless-attrs_5",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is excellent"
+            }
+        ],
+        "image": "ParrotV1_lossless-geom-nearlossless-attrs_5.mp4",
+        "gt_score": 4.5625
+    },
+    {
+        "filename": "ParrotV1_lossless-geom-nearlossless-attrs_6.ply",
+        "mos": 3.928571429,
+        "object_id": "ParrotV1_lossless-geom-nearlossless-attrs_6",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ],
+        "image": "ParrotV1_lossless-geom-nearlossless-attrs_6.mp4",
+        "gt_score": 3.928571429
+    },
+    {
+        "filename": "ParrotV1_lossless-geom-nearlossless-attrs_7.ply",
+        "mos": 2.78125,
+        "object_id": "ParrotV1_lossless-geom-nearlossless-attrs_7",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ],
+        "image": "ParrotV1_lossless-geom-nearlossless-attrs_7.mp4",
+        "gt_score": 2.78125
+    },
+    {
+        "filename": "RpManuelAnimated001Dancing_CorrelatedGaussianNoise_1.ply",
+        "mos": 4.533333333,
+        "object_id": "RpManuelAnimated001Dancing_CorrelatedGaussianNoise_1",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is excellent"
+            }
+        ],
+        "image": "RpManuelAnimated001Dancing_CorrelatedGaussianNoise_1.mp4",
+        "gt_score": 4.533333333
+    },
+    {
+        "filename": "RpManuelAnimated001Dancing_CorrelatedGaussianNoise_2.ply",
+        "mos": 3.5,
+        "object_id": "RpManuelAnimated001Dancing_CorrelatedGaussianNoise_2",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ],
+        "image": "RpManuelAnimated001Dancing_CorrelatedGaussianNoise_2.mp4",
+        "gt_score": 3.5
+    },
+    {
+        "filename": "RpManuelAnimated001Dancing_CorrelatedGaussianNoise_3.ply",
+        "mos": 3.25,
+        "object_id": "RpManuelAnimated001Dancing_CorrelatedGaussianNoise_3",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ],
+        "image": "RpManuelAnimated001Dancing_CorrelatedGaussianNoise_3.mp4",
+        "gt_score": 3.25
+    },
+    {
+        "filename": "RpManuelAnimated001Dancing_CorrelatedGaussianNoise_4.ply",
+        "mos": 3.142857143,
+        "object_id": "RpManuelAnimated001Dancing_CorrelatedGaussianNoise_4",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ],
+        "image": "RpManuelAnimated001Dancing_CorrelatedGaussianNoise_4.mp4",
+        "gt_score": 3.142857143
+    },
+    {
+        "filename": "RpManuelAnimated001Dancing_CorrelatedGaussianNoise_5.ply",
+        "mos": 3.0,
+        "object_id": "RpManuelAnimated001Dancing_CorrelatedGaussianNoise_5",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ],
+        "image": "RpManuelAnimated001Dancing_CorrelatedGaussianNoise_5.mp4",
+        "gt_score": 3.0
+    },
+    {
+        "filename": "RpManuelAnimated001Dancing_LocalRotation_1.ply",
+        "mos": 3.142857143,
+        "object_id": "RpManuelAnimated001Dancing_LocalRotation_1",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ],
+        "image": "RpManuelAnimated001Dancing_LocalRotation_1.mp4",
+        "gt_score": 3.142857143
+    },
+    {
+        "filename": "RpManuelAnimated001Dancing_LocalRotation_2.ply",
+        "mos": 2.321428571,
+        "object_id": "RpManuelAnimated001Dancing_LocalRotation_2",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ],
+        "image": "RpManuelAnimated001Dancing_LocalRotation_2.mp4",
+        "gt_score": 2.321428571
+    },
+    {
+        "filename": "RpManuelAnimated001Dancing_LocalRotation_3.ply",
+        "mos": 2.266666667,
+        "object_id": "RpManuelAnimated001Dancing_LocalRotation_3",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ],
+        "image": "RpManuelAnimated001Dancing_LocalRotation_3.mp4",
+        "gt_score": 2.266666667
+    },
+    {
+        "filename": "RpManuelAnimated001Dancing_LocalRotation_4.ply",
+        "mos": 2.035714286,
+        "object_id": "RpManuelAnimated001Dancing_LocalRotation_4",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ],
+        "image": "RpManuelAnimated001Dancing_LocalRotation_4.mp4",
+        "gt_score": 2.035714286
+    },
+    {
+        "filename": "RpManuelAnimated001Dancing_LocalRotation_5.ply",
+        "mos": 1.392857143,
+        "object_id": "RpManuelAnimated001Dancing_LocalRotation_5",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is poor"
+            }
+        ],
+        "image": "RpManuelAnimated001Dancing_LocalRotation_5.mp4",
+        "gt_score": 1.392857143
+    },
+    {
+        "filename": "RpManuelAnimated001Dancing_UniformShifting_1.ply",
+        "mos": 4.15625,
+        "object_id": "RpManuelAnimated001Dancing_UniformShifting_1",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is excellent"
+            }
+        ],
+        "image": "RpManuelAnimated001Dancing_UniformShifting_1.mp4",
+        "gt_score": 4.15625
+    },
+    {
+        "filename": "RpManuelAnimated001Dancing_UniformShifting_2.ply",
+        "mos": 4.071428571,
+        "object_id": "RpManuelAnimated001Dancing_UniformShifting_2",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is excellent"
+            }
+        ],
+        "image": "RpManuelAnimated001Dancing_UniformShifting_2.mp4",
+        "gt_score": 4.071428571
+    },
+    {
+        "filename": "RpManuelAnimated001Dancing_UniformShifting_3.ply",
+        "mos": 2.892857143,
+        "object_id": "RpManuelAnimated001Dancing_UniformShifting_3",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ],
+        "image": "RpManuelAnimated001Dancing_UniformShifting_3.mp4",
+        "gt_score": 2.892857143
+    },
+    {
+        "filename": "RpManuelAnimated001Dancing_UniformShifting_4.ply",
+        "mos": 2.46875,
+        "object_id": "RpManuelAnimated001Dancing_UniformShifting_4",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ],
+        "image": "RpManuelAnimated001Dancing_UniformShifting_4.mp4",
+        "gt_score": 2.46875
+    },
+    {
+        "filename": "RpManuelAnimated001Dancing_UniformShifting_5.ply",
+        "mos": 2.2,
+        "object_id": "RpManuelAnimated001Dancing_UniformShifting_5",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ],
+        "image": "RpManuelAnimated001Dancing_UniformShifting_5.mp4",
+        "gt_score": 2.2
+    },
+    {
+        "filename": "SeaTurtle_HighFrequencyNoise_3.ply",
+        "mos": 4.285714286,
+        "object_id": "SeaTurtle_HighFrequencyNoise_3",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is excellent"
+            }
+        ],
+        "image": "SeaTurtle_HighFrequencyNoise_3.mp4",
+        "gt_score": 4.285714286
+    },
+    {
+        "filename": "SeaTurtle_HighFrequencyNoise_4.ply",
+        "mos": 4.178571429,
+        "object_id": "SeaTurtle_HighFrequencyNoise_4",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is excellent"
+            }
+        ],
+        "image": "SeaTurtle_HighFrequencyNoise_4.mp4",
+        "gt_score": 4.178571429
+    },
+    {
+        "filename": "SeaTurtle_HighFrequencyNoise_5.ply",
+        "mos": 3.892857143,
+        "object_id": "SeaTurtle_HighFrequencyNoise_5",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ],
+        "image": "SeaTurtle_HighFrequencyNoise_5.mp4",
+        "gt_score": 3.892857143
+    },
+    {
+        "filename": "SeaTurtle_HighFrequencyNoise_6.ply",
+        "mos": 3.5,
+        "object_id": "SeaTurtle_HighFrequencyNoise_6",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ],
+        "image": "SeaTurtle_HighFrequencyNoise_6.mp4",
+        "gt_score": 3.5
+    },
+    {
+        "filename": "SeaTurtle_HighFrequencyNoise_7.ply",
+        "mos": 3.0,
+        "object_id": "SeaTurtle_HighFrequencyNoise_7",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ],
+        "image": "SeaTurtle_HighFrequencyNoise_7.mp4",
+        "gt_score": 3.0
+    },
+    {
+        "filename": "Shark_HighFrequencyNoise_3.ply",
+        "mos": 3.866666667,
+        "object_id": "Shark_HighFrequencyNoise_3",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ],
+        "image": "Shark_HighFrequencyNoise_3.mp4",
+        "gt_score": 3.866666667
+    },
+    {
+        "filename": "Shark_HighFrequencyNoise_4.ply",
+        "mos": 3.5,
+        "object_id": "Shark_HighFrequencyNoise_4",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ],
+        "image": "Shark_HighFrequencyNoise_4.mp4",
+        "gt_score": 3.5
+    },
+    {
+        "filename": "Shark_HighFrequencyNoise_5.ply",
+        "mos": 3.464285714,
+        "object_id": "Shark_HighFrequencyNoise_5",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ],
+        "image": "Shark_HighFrequencyNoise_5.mp4",
+        "gt_score": 3.464285714
+    },
+    {
+        "filename": "Shark_HighFrequencyNoise_6.ply",
+        "mos": 3.142857143,
+        "object_id": "Shark_HighFrequencyNoise_6",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ],
+        "image": "Shark_HighFrequencyNoise_6.mp4",
+        "gt_score": 3.142857143
+    },
+    {
+        "filename": "Shark_HighFrequencyNoise_7.ply",
+        "mos": 2.678571429,
+        "object_id": "Shark_HighFrequencyNoise_7",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ],
+        "image": "Shark_HighFrequencyNoise_7.mp4",
+        "gt_score": 2.678571429
+    },
+    {
+        "filename": "Table_SaturationDistortion_1.ply",
+        "mos": 4.321428571,
+        "object_id": "Table_SaturationDistortion_1",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is excellent"
+            }
+        ],
+        "image": "Table_SaturationDistortion_1.mp4",
+        "gt_score": 4.321428571
+    },
+    {
+        "filename": "Table_SaturationDistortion_2.ply",
+        "mos": 3.285714286,
+        "object_id": "Table_SaturationDistortion_2",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ],
+        "image": "Table_SaturationDistortion_2.mp4",
+        "gt_score": 3.285714286
+    },
+    {
+        "filename": "Table_SaturationDistortion_3.ply",
+        "mos": 3.133333333,
+        "object_id": "Table_SaturationDistortion_3",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is good"
+            }
+        ],
+        "image": "Table_SaturationDistortion_3.mp4",
+        "gt_score": 3.133333333
+    },
+    {
+        "filename": "Table_SaturationDistortion_4.ply",
+        "mos": 2.607142857,
+        "object_id": "Table_SaturationDistortion_4",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ],
+        "image": "Table_SaturationDistortion_4.mp4",
+        "gt_score": 2.607142857
+    },
+    {
+        "filename": "Table_SaturationDistortion_5.ply",
+        "mos": 2.464285714,
+        "object_id": "Table_SaturationDistortion_5",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This is a point cloud rated for quality. It was displayed to a human in a single stimulus setup with absolute category ratings.<|image|><|image|><|image|><|image|><|image|><|image|>\n<point>\nCan you evaluate the quality of the point cloud?"
+            },
+            {
+                "from": "gpt",
+                "value": "The quality of the point cloud is fair"
+            }
+        ],
+        "image": "Table_SaturationDistortion_5.mp4",
+        "gt_score": 2.464285714
+    }
+]
